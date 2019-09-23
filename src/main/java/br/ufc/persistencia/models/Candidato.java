@@ -1,4 +1,4 @@
-package br.ufc.persistencia;
+package br.ufc.persistencia.models;
 
 import java.util.ArrayList;
 import java.util.List;

@@ -76,7 +76,7 @@ public class App {
 	        
 	        csvReader.close();
 	        
-	        DevmediaSAX devmediaSAX = new DevmediaSAX();
+	        CandidatosSAX devmediaSAX = new CandidatosSAX();
 	        devmediaSAX.fazerParsing(pathToXml, "src/main/resources/candidatos.json");
 
 		} catch (IOException e) {

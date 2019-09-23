@@ -15,7 +15,12 @@ import org.xml.sax.helpers.DefaultHandler;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
 
-public class DevmediaSAX extends DefaultHandler {
+import br.ufc.persistencia.models.Candidato;
+import br.ufc.persistencia.models.NotasRedacao;
+import br.ufc.persistencia.models.Prova;
+import br.ufc.persistencia.models.Redacao;
+
+public class CandidatosSAX extends DefaultHandler {
 
 	private String pathJson;
 	
@@ -28,7 +33,7 @@ public class DevmediaSAX extends DefaultHandler {
 	private NotasRedacao notasRedacaoAtual;
 	private Prova provaAtual;
 
-	public DevmediaSAX() {
+	public CandidatosSAX() {
 		super();
 		this.candidatos = new ArrayList<Candidato>();
 	}
