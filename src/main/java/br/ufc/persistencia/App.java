@@ -75,6 +75,9 @@ public class App {
 	        transf.transform(source, file);
 	        
 	        csvReader.close();
+	        
+	        DevmediaSAX devmediaSAX = new DevmediaSAX();
+	        devmediaSAX.fazerParsing(pathToXml, "src/main/resources/candidatos.json");
 
 		} catch (IOException e) {
 			e.printStackTrace();
