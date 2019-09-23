@@ -39,7 +39,8 @@ public class CandidatosSAX extends DefaultHandler {
 	}
 
 	public void fazerParsing(String pathArq, String pathJson) {
-this.pathJson = pathJson;
+		this.pathJson = pathJson;
+		
 		SAXParserFactory factory = SAXParserFactory.newInstance();
 		SAXParser saxParser;
 
@@ -54,6 +55,7 @@ this.pathJson = pathJson;
 	}
 
 	public void startDocument() {
+		System.out.println("\nInicio do Parsing...");
 	}
 
 	public void endDocument() {
@@ -150,7 +152,7 @@ this.pathJson = pathJson;
 		}	
 	}
 	
-	public void salvarEmJSON() {
+	private void salvarEmJSON() {
 
 		ObjectMapper mapper = new ObjectMapper();
 		

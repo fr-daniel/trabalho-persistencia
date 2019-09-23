@@ -28,6 +28,7 @@ public class App {
 	
 	private final static String pathToCsv = "src/main/resources/MICRODADOS_ENEM_2018.csv";
 	private final static String pathToXml = "src/main/resources/candidatos.xml";
+	private final static String pathToJson = "src/main/resources/candidatos.json";
 	private final static Integer quantidadeDados = 20;
 
 	public static void main(String[] args) throws ParserConfigurationException, TransformerConfigurationException {
@@ -77,8 +78,8 @@ public class App {
 	        csvReader.close();
 	        
 	        CandidatosSAX devmediaSAX = new CandidatosSAX();
-	        devmediaSAX.fazerParsing(pathToXml, "src/main/resources/candidatos.json");
-
+	        devmediaSAX.fazerParsing(pathToXml, pathToJson);
+	        
 		} catch (IOException e) {
 			e.printStackTrace();
 		} catch (TransformerException e) {
