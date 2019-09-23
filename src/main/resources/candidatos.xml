@@ -17,6 +17,28 @@
         <competencia_5/>
       </notas>
     </redacao>
+    <provas>
+      <prova>
+        <descricao>Ciências da Natureza</descricao>
+        <presenca>Faltou à prova</presenca>
+        <nota/>
+      </prova>
+      <prova>
+        <descricao>Ciências Humanas</descricao>
+        <presenca>Faltou à prova</presenca>
+        <nota/>
+      </prova>
+      <prova>
+        <descricao>Linguagens e Códigos</descricao>
+        <presenca>Faltou à prova</presenca>
+        <nota/>
+      </prova>
+      <prova>
+        <descricao>Matemática</descricao>
+        <presenca>Faltou à prova</presenca>
+        <nota/>
+      </prova>
+    </provas>
   </candidato>
   <candidato inscricao="180007197856">
     <idade>23</idade>
@@ -35,6 +57,28 @@
         <competencia_5>20</competencia_5>
       </notas>
     </redacao>
+    <provas>
+      <prova>
+        <descricao>Ciências da Natureza</descricao>
+        <presenca>Presente na prova</presenca>
+        <nota>521</nota>
+      </prova>
+      <prova>
+        <descricao>Ciências Humanas</descricao>
+        <presenca>Presente na prova</presenca>
+        <nota>568.7</nota>
+      </prova>
+      <prova>
+        <descricao>Linguagens e Códigos</descricao>
+        <presenca>Presente na prova</presenca>
+        <nota>513.1</nota>
+      </prova>
+      <prova>
+        <descricao>Matemática</descricao>
+        <presenca>Presente na prova</presenca>
+        <nota>480.3</nota>
+      </prova>
+    </provas>
   </candidato>
   <candidato inscricao="180008517434">
     <idade>23</idade>
@@ -53,6 +97,28 @@
         <competencia_5/>
       </notas>
     </redacao>
+    <provas>
+      <prova>
+        <descricao>Ciências da Natureza</descricao>
+        <presenca>Faltou à prova</presenca>
+        <nota/>
+      </prova>
+      <prova>
+        <descricao>Ciências Humanas</descricao>
+        <presenca>Faltou à prova</presenca>
+        <nota/>
+      </prova>
+      <prova>
+        <descricao>Linguagens e Códigos</descricao>
+        <presenca>Faltou à prova</presenca>
+        <nota/>
+      </prova>
+      <prova>
+        <descricao>Matemática</descricao>
+        <presenca>Faltou à prova</presenca>
+        <nota/>
+      </prova>
+    </provas>
   </candidato>
   <candidato inscricao="180007661228">
     <idade>26</idade>
@@ -71,6 +137,28 @@
         <competencia_5/>
       </notas>
     </redacao>
+    <provas>
+      <prova>
+        <descricao>Ciências da Natureza</descricao>
+        <presenca>Faltou à prova</presenca>
+        <nota/>
+      </prova>
+      <prova>
+        <descricao>Ciências Humanas</descricao>
+        <presenca>Faltou à prova</presenca>
+        <nota/>
+      </prova>
+      <prova>
+        <descricao>Linguagens e Códigos</descricao>
+        <presenca>Faltou à prova</presenca>
+        <nota/>
+      </prova>
+      <prova>
+        <descricao>Matemática</descricao>
+        <presenca>Faltou à prova</presenca>
+        <nota/>
+      </prova>
+    </provas>
   </candidato>
   <candidato inscricao="180008787987">
     <idade>20</idade>
@@ -89,6 +177,28 @@
         <competencia_5>20</competencia_5>
       </notas>
     </redacao>
+    <provas>
+      <prova>
+        <descricao>Ciências da Natureza</descricao>
+        <presenca>Faltou à prova</presenca>
+        <nota/>
+      </prova>
+      <prova>
+        <descricao>Ciências Humanas</descricao>
+        <presenca>Presente na prova</presenca>
+        <nota>419.9</nota>
+      </prova>
+      <prova>
+        <descricao>Linguagens e Códigos</descricao>
+        <presenca>Presente na prova</presenca>
+        <nota>345.8</nota>
+      </prova>
+      <prova>
+        <descricao>Matemática</descricao>
+        <presenca>Faltou à prova</presenca>
+        <nota/>
+      </prova>
+    </provas>
   </candidato>
   <candidato inscricao="180007239581">
     <idade>23</idade>
@@ -107,6 +217,28 @@
         <competencia_5>100</competencia_5>
       </notas>
     </redacao>
+    <provas>
+      <prova>
+        <descricao>Ciências da Natureza</descricao>
+        <presenca>Presente na prova</presenca>
+        <nota>461.8</nota>
+      </prova>
+      <prova>
+        <descricao>Ciências Humanas</descricao>
+        <presenca>Presente na prova</presenca>
+        <nota>564</nota>
+      </prova>
+      <prova>
+        <descricao>Linguagens e Códigos</descricao>
+        <presenca>Presente na prova</presenca>
+        <nota>466.8</nota>
+      </prova>
+      <prova>
+        <descricao>Matemática</descricao>
+        <presenca>Presente na prova</presenca>
+        <nota>538.8</nota>
+      </prova>
+    </provas>
   </candidato>
   <candidato inscricao="180007198225">
     <idade>35</idade>
@@ -125,6 +257,28 @@
         <competencia_5/>
       </notas>
     </redacao>
+    <provas>
+      <prova>
+        <descricao>Ciências da Natureza</descricao>
+        <presenca>Faltou à prova</presenca>
+        <nota/>
+      </prova>
+      <prova>
+        <descricao>Ciências Humanas</descricao>
+        <presenca>Faltou à prova</presenca>
+        <nota/>
+      </prova>
+      <prova>
+        <descricao>Linguagens e Códigos</descricao>
+        <presenca>Faltou à prova</presenca>
+        <nota/>
+      </prova>
+      <prova>
+        <descricao>Matemática</descricao>
+        <presenca>Faltou à prova</presenca>
+        <nota/>
+      </prova>
+    </provas>
   </candidato>
   <candidato inscricao="180008090447">
     <idade>39</idade>
@@ -143,6 +297,28 @@
         <competencia_5>80</competencia_5>
       </notas>
     </redacao>
+    <provas>
+      <prova>
+        <descricao>Ciências da Natureza</descricao>
+        <presenca>Presente na prova</presenca>
+        <nota>499.3</nota>
+      </prova>
+      <prova>
+        <descricao>Ciências Humanas</descricao>
+        <presenca>Presente na prova</presenca>
+        <nota>663.2</nota>
+      </prova>
+      <prova>
+        <descricao>Linguagens e Códigos</descricao>
+        <presenca>Presente na prova</presenca>
+        <nota>605.2</nota>
+      </prova>
+      <prova>
+        <descricao>Matemática</descricao>
+        <presenca>Presente na prova</presenca>
+        <nota>733.8</nota>
+      </prova>
+    </provas>
   </candidato>
   <candidato inscricao="180008257068">
     <idade>19</idade>
@@ -161,6 +337,28 @@
         <competencia_5>40</competencia_5>
       </notas>
     </redacao>
+    <provas>
+      <prova>
+        <descricao>Ciências da Natureza</descricao>
+        <presenca>Presente na prova</presenca>
+        <nota>411.8</nota>
+      </prova>
+      <prova>
+        <descricao>Ciências Humanas</descricao>
+        <presenca>Presente na prova</presenca>
+        <nota>429.8</nota>
+      </prova>
+      <prova>
+        <descricao>Linguagens e Códigos</descricao>
+        <presenca>Presente na prova</presenca>
+        <nota>445.2</nota>
+      </prova>
+      <prova>
+        <descricao>Matemática</descricao>
+        <presenca>Presente na prova</presenca>
+        <nota>459</nota>
+      </prova>
+    </provas>
   </candidato>
   <candidato inscricao="180008202044">
     <idade>25</idade>
@@ -179,6 +377,28 @@
         <competencia_5>100</competencia_5>
       </notas>
     </redacao>
+    <provas>
+      <prova>
+        <descricao>Ciências da Natureza</descricao>
+        <presenca>Presente na prova</presenca>
+        <nota>469.4</nota>
+      </prova>
+      <prova>
+        <descricao>Ciências Humanas</descricao>
+        <presenca>Presente na prova</presenca>
+        <nota>650.2</nota>
+      </prova>
+      <prova>
+        <descricao>Linguagens e Códigos</descricao>
+        <presenca>Presente na prova</presenca>
+        <nota>606.6</nota>
+      </prova>
+      <prova>
+        <descricao>Matemática</descricao>
+        <presenca>Presente na prova</presenca>
+        <nota>525.4</nota>
+      </prova>
+    </provas>
   </candidato>
   <candidato inscricao="180008411102">
     <idade>38</idade>
@@ -197,6 +417,28 @@
         <competencia_5/>
       </notas>
     </redacao>
+    <provas>
+      <prova>
+        <descricao>Ciências da Natureza</descricao>
+        <presenca>Faltou à prova</presenca>
+        <nota/>
+      </prova>
+      <prova>
+        <descricao>Ciências Humanas</descricao>
+        <presenca>Faltou à prova</presenca>
+        <nota/>
+      </prova>
+      <prova>
+        <descricao>Linguagens e Códigos</descricao>
+        <presenca>Faltou à prova</presenca>
+        <nota/>
+      </prova>
+      <prova>
+        <descricao>Matemática</descricao>
+        <presenca>Faltou à prova</presenca>
+        <nota/>
+      </prova>
+    </provas>
   </candidato>
   <candidato inscricao="180007286705">
     <idade>17</idade>
@@ -215,6 +457,28 @@
         <competencia_5>140</competencia_5>
       </notas>
     </redacao>
+    <provas>
+      <prova>
+        <descricao>Ciências da Natureza</descricao>
+        <presenca>Faltou à prova</presenca>
+        <nota/>
+      </prova>
+      <prova>
+        <descricao>Ciências Humanas</descricao>
+        <presenca>Presente na prova</presenca>
+        <nota>618.7</nota>
+      </prova>
+      <prova>
+        <descricao>Linguagens e Códigos</descricao>
+        <presenca>Presente na prova</presenca>
+        <nota>588.2</nota>
+      </prova>
+      <prova>
+        <descricao>Matemática</descricao>
+        <presenca>Faltou à prova</presenca>
+        <nota/>
+      </prova>
+    </provas>
   </candidato>
   <candidato inscricao="180008948206">
     <idade>18</idade>
@@ -233,6 +497,28 @@
         <competencia_5>100</competencia_5>
       </notas>
     </redacao>
+    <provas>
+      <prova>
+        <descricao>Ciências da Natureza</descricao>
+        <presenca>Presente na prova</presenca>
+        <nota>467.4</nota>
+      </prova>
+      <prova>
+        <descricao>Ciências Humanas</descricao>
+        <presenca>Presente na prova</presenca>
+        <nota>640.5</nota>
+      </prova>
+      <prova>
+        <descricao>Linguagens e Códigos</descricao>
+        <presenca>Presente na prova</presenca>
+        <nota>516.7</nota>
+      </prova>
+      <prova>
+        <descricao>Matemática</descricao>
+        <presenca>Presente na prova</presenca>
+        <nota>642.3</nota>
+      </prova>
+    </provas>
   </candidato>
   <candidato inscricao="180008787988">
     <idade>23</idade>
@@ -251,6 +537,28 @@
         <competencia_5>140</competencia_5>
       </notas>
     </redacao>
+    <provas>
+      <prova>
+        <descricao>Ciências da Natureza</descricao>
+        <presenca>Presente na prova</presenca>
+        <nota>625.5</nota>
+      </prova>
+      <prova>
+        <descricao>Ciências Humanas</descricao>
+        <presenca>Presente na prova</presenca>
+        <nota>652.2</nota>
+      </prova>
+      <prova>
+        <descricao>Linguagens e Códigos</descricao>
+        <presenca>Presente na prova</presenca>
+        <nota>616.3</nota>
+      </prova>
+      <prova>
+        <descricao>Matemática</descricao>
+        <presenca>Presente na prova</presenca>
+        <nota>622</nota>
+      </prova>
+    </provas>
   </candidato>
   <candidato inscricao="180008417244">
     <idade>19</idade>
@@ -269,6 +577,28 @@
         <competencia_5/>
       </notas>
     </redacao>
+    <provas>
+      <prova>
+        <descricao>Ciências da Natureza</descricao>
+        <presenca>Faltou à prova</presenca>
+        <nota/>
+      </prova>
+      <prova>
+        <descricao>Ciências Humanas</descricao>
+        <presenca>Faltou à prova</presenca>
+        <nota/>
+      </prova>
+      <prova>
+        <descricao>Linguagens e Códigos</descricao>
+        <presenca>Faltou à prova</presenca>
+        <nota/>
+      </prova>
+      <prova>
+        <descricao>Matemática</descricao>
+        <presenca>Faltou à prova</presenca>
+        <nota/>
+      </prova>
+    </provas>
   </candidato>
   <candidato inscricao="180008411473">
     <idade>21</idade>
@@ -287,6 +617,28 @@
         <competencia_5/>
       </notas>
     </redacao>
+    <provas>
+      <prova>
+        <descricao>Ciências da Natureza</descricao>
+        <presenca>Faltou à prova</presenca>
+        <nota/>
+      </prova>
+      <prova>
+        <descricao>Ciências Humanas</descricao>
+        <presenca>Faltou à prova</presenca>
+        <nota/>
+      </prova>
+      <prova>
+        <descricao>Linguagens e Códigos</descricao>
+        <presenca>Faltou à prova</presenca>
+        <nota/>
+      </prova>
+      <prova>
+        <descricao>Matemática</descricao>
+        <presenca>Faltou à prova</presenca>
+        <nota/>
+      </prova>
+    </provas>
   </candidato>
   <candidato inscricao="180007766857">
     <idade>18</idade>
@@ -305,6 +657,28 @@
         <competencia_5>100</competencia_5>
       </notas>
     </redacao>
+    <provas>
+      <prova>
+        <descricao>Ciências da Natureza</descricao>
+        <presenca>Presente na prova</presenca>
+        <nota>478.5</nota>
+      </prova>
+      <prova>
+        <descricao>Ciências Humanas</descricao>
+        <presenca>Presente na prova</presenca>
+        <nota>513.3</nota>
+      </prova>
+      <prova>
+        <descricao>Linguagens e Códigos</descricao>
+        <presenca>Presente na prova</presenca>
+        <nota>564.7</nota>
+      </prova>
+      <prova>
+        <descricao>Matemática</descricao>
+        <presenca>Presente na prova</presenca>
+        <nota>514.9</nota>
+      </prova>
+    </provas>
   </candidato>
   <candidato inscricao="180009379462">
     <idade>21</idade>
@@ -323,6 +697,28 @@
         <competencia_5>40</competencia_5>
       </notas>
     </redacao>
+    <provas>
+      <prova>
+        <descricao>Ciências da Natureza</descricao>
+        <presenca>Presente na prova</presenca>
+        <nota>521.8</nota>
+      </prova>
+      <prova>
+        <descricao>Ciências Humanas</descricao>
+        <presenca>Presente na prova</presenca>
+        <nota>598.9</nota>
+      </prova>
+      <prova>
+        <descricao>Linguagens e Códigos</descricao>
+        <presenca>Presente na prova</presenca>
+        <nota>584.6</nota>
+      </prova>
+      <prova>
+        <descricao>Matemática</descricao>
+        <presenca>Presente na prova</presenca>
+        <nota>530.4</nota>
+      </prova>
+    </provas>
   </candidato>
   <candidato inscricao="180008257069">
     <idade>20</idade>
@@ -341,6 +737,28 @@
         <competencia_5>40</competencia_5>
       </notas>
     </redacao>
+    <provas>
+      <prova>
+        <descricao>Ciências da Natureza</descricao>
+        <presenca>Presente na prova</presenca>
+        <nota>397.7</nota>
+      </prova>
+      <prova>
+        <descricao>Ciências Humanas</descricao>
+        <presenca>Presente na prova</presenca>
+        <nota>612</nota>
+      </prova>
+      <prova>
+        <descricao>Linguagens e Códigos</descricao>
+        <presenca>Presente na prova</presenca>
+        <nota>455</nota>
+      </prova>
+      <prova>
+        <descricao>Matemática</descricao>
+        <presenca>Presente na prova</presenca>
+        <nota>503.3</nota>
+      </prova>
+    </provas>
   </candidato>
   <candidato inscricao="180008202045">
     <idade>27</idade>
@@ -359,3245 +777,27 @@
         <competencia_5>0</competencia_5>
       </notas>
     </redacao>
-  </candidato>
-  <candidato inscricao="180008411103">
-    <idade>37</idade>
-    <sexo>Feminino</sexo>
-    <nacionalidade>Brasileiro(a)</nacionalidade>
-    <raca>Branca</raca>
-    <estado_civil>Solteiro(a)</estado_civil>
-    <redacao>
-      <status>Sem problemas</status>
-      <nota_final>660</nota_final>
-      <notas>
-        <competencia_1>140</competencia_1>
-        <competencia_2>140</competencia_2>
-        <competencia_3>120</competencia_3>
-        <competencia_4>140</competencia_4>
-        <competencia_5>120</competencia_5>
-      </notas>
-    </redacao>
-  </candidato>
-  <candidato inscricao="180007286706">
-    <idade>35</idade>
-    <sexo>Masculino</sexo>
-    <nacionalidade>Brasileiro(a)</nacionalidade>
-    <raca>Parda</raca>
-    <estado_civil>Solteiro(a)</estado_civil>
-    <redacao>
-      <status/>
-      <nota_final/>
-      <notas>
-        <competencia_1/>
-        <competencia_2/>
-        <competencia_3/>
-        <competencia_4/>
-        <competencia_5/>
-      </notas>
-    </redacao>
-  </candidato>
-  <candidato inscricao="180008196151">
-    <idade>29</idade>
-    <sexo>Masculino</sexo>
-    <nacionalidade>Brasileiro(a)</nacionalidade>
-    <raca>Parda</raca>
-    <estado_civil>Solteiro(a)</estado_civil>
-    <redacao>
-      <status>Sem problemas</status>
-      <nota_final>560</nota_final>
-      <notas>
-        <competencia_1>120</competencia_1>
-        <competencia_2>120</competencia_2>
-        <competencia_3>120</competencia_3>
-        <competencia_4>120</competencia_4>
-        <competencia_5>80</competencia_5>
-      </notas>
-    </redacao>
-  </candidato>
-  <candidato inscricao="180008787989">
-    <idade>19</idade>
-    <sexo>Feminino</sexo>
-    <nacionalidade>Brasileiro(a)</nacionalidade>
-    <raca>Parda</raca>
-    <estado_civil>Solteiro(a)</estado_civil>
-    <redacao>
-      <status/>
-      <nota_final/>
-      <notas>
-        <competencia_1/>
-        <competencia_2/>
-        <competencia_3/>
-        <competencia_4/>
-        <competencia_5/>
-      </notas>
-    </redacao>
-  </candidato>
-  <candidato inscricao="180008309625">
-    <idade>19</idade>
-    <sexo>Masculino</sexo>
-    <nacionalidade>Brasileiro(a)</nacionalidade>
-    <raca>Parda</raca>
-    <estado_civil>Solteiro(a)</estado_civil>
-    <redacao>
-      <status>Sem problemas</status>
-      <nota_final>340</nota_final>
-      <notas>
-        <competencia_1>100</competencia_1>
-        <competencia_2>40</competencia_2>
-        <competencia_3>40</competencia_3>
-        <competencia_4>120</competencia_4>
-        <competencia_5>40</competencia_5>
-      </notas>
-    </redacao>
-  </candidato>
-  <candidato inscricao="180007766858">
-    <idade>30</idade>
-    <sexo>Feminino</sexo>
-    <nacionalidade>Brasileiro(a)</nacionalidade>
-    <raca>Branca</raca>
-    <estado_civil>Solteiro(a)</estado_civil>
-    <redacao>
-      <status/>
-      <nota_final/>
-      <notas>
-        <competencia_1/>
-        <competencia_2/>
-        <competencia_3/>
-        <competencia_4/>
-        <competencia_5/>
-      </notas>
-    </redacao>
-  </candidato>
-  <candidato inscricao="180008895630">
-    <idade>18</idade>
-    <sexo>Feminino</sexo>
-    <nacionalidade>Brasileiro(a)</nacionalidade>
-    <raca>Branca</raca>
-    <estado_civil>Solteiro(a)</estado_civil>
-    <redacao>
-      <status>Sem problemas</status>
-      <nota_final>620</nota_final>
-      <notas>
-        <competencia_1>160</competencia_1>
-        <competencia_2>120</competencia_2>
-        <competencia_3>140</competencia_3>
-        <competencia_4>120</competencia_4>
-        <competencia_5>80</competencia_5>
-      </notas>
-    </redacao>
-  </candidato>
-  <candidato inscricao="180008257070">
-    <idade>19</idade>
-    <sexo>Feminino</sexo>
-    <nacionalidade>Brasileiro(a)</nacionalidade>
-    <raca>Indígena</raca>
-    <estado_civil>Solteiro(a)</estado_civil>
-    <redacao>
-      <status>Sem problemas</status>
-      <nota_final>560</nota_final>
-      <notas>
-        <competencia_1>120</competencia_1>
-        <competencia_2>120</competencia_2>
-        <competencia_3>120</competencia_3>
-        <competencia_4>100</competencia_4>
-        <competencia_5>100</competencia_5>
-      </notas>
-    </redacao>
-  </candidato>
-  <candidato inscricao="180008202046">
-    <idade>24</idade>
-    <sexo>Feminino</sexo>
-    <nacionalidade>Brasileiro(a)</nacionalidade>
-    <raca>Branca</raca>
-    <estado_civil>Solteiro(a)</estado_civil>
-    <redacao>
-      <status>Sem problemas</status>
-      <nota_final>540</nota_final>
-      <notas>
-        <competencia_1>120</competencia_1>
-        <competencia_2>120</competencia_2>
-        <competencia_3>100</competencia_3>
-        <competencia_4>100</competencia_4>
-        <competencia_5>100</competencia_5>
-      </notas>
-    </redacao>
-  </candidato>
-  <candidato inscricao="180008411104">
-    <idade>54</idade>
-    <sexo>Feminino</sexo>
-    <nacionalidade>Brasileiro(a)</nacionalidade>
-    <raca>Parda</raca>
-    <estado_civil>Casado(a)/Mora com companheiro(a)</estado_civil>
-    <redacao>
-      <status>Sem problemas</status>
-      <nota_final>300</nota_final>
-      <notas>
-        <competencia_1>80</competencia_1>
-        <competencia_2>40</competencia_2>
-        <competencia_3>40</competencia_3>
-        <competencia_4>100</competencia_4>
-        <competencia_5>40</competencia_5>
-      </notas>
-    </redacao>
-  </candidato>
-  <candidato inscricao="180007286707">
-    <idade>22</idade>
-    <sexo>Feminino</sexo>
-    <nacionalidade>Brasileiro(a)</nacionalidade>
-    <raca>Branca</raca>
-    <estado_civil>Casado(a)/Mora com companheiro(a)</estado_civil>
-    <redacao>
-      <status/>
-      <nota_final/>
-      <notas>
-        <competencia_1/>
-        <competencia_2/>
-        <competencia_3/>
-        <competencia_4/>
-        <competencia_5/>
-      </notas>
-    </redacao>
-  </candidato>
-  <candidato inscricao="180008196152">
-    <idade>16</idade>
-    <sexo>Feminino</sexo>
-    <nacionalidade>Brasileiro(a)</nacionalidade>
-    <raca>Branca</raca>
-    <estado_civil>Solteiro(a)</estado_civil>
-    <redacao>
-      <status>Sem problemas</status>
-      <nota_final>500</nota_final>
-      <notas>
-        <competencia_1>120</competencia_1>
-        <competencia_2>120</competencia_2>
-        <competencia_3>80</competencia_3>
-        <competencia_4>100</competencia_4>
-        <competencia_5>80</competencia_5>
-      </notas>
-    </redacao>
-  </candidato>
-  <candidato inscricao="180008787990">
-    <idade>19</idade>
-    <sexo>Masculino</sexo>
-    <nacionalidade>Brasileiro(a)</nacionalidade>
-    <raca>Parda</raca>
-    <estado_civil>Solteiro(a)</estado_civil>
-    <redacao>
-      <status>Sem problemas</status>
-      <nota_final>580</nota_final>
-      <notas>
-        <competencia_1>120</competencia_1>
-        <competencia_2>120</competencia_2>
-        <competencia_3>120</competencia_3>
-        <competencia_4>100</competencia_4>
-        <competencia_5>120</competencia_5>
-      </notas>
-    </redacao>
-  </candidato>
-  <candidato inscricao="180008411475">
-    <idade>22</idade>
-    <sexo>Feminino</sexo>
-    <nacionalidade>Brasileiro(a)</nacionalidade>
-    <raca>Parda</raca>
-    <estado_civil>Solteiro(a)</estado_civil>
-    <redacao>
-      <status/>
-      <nota_final/>
-      <notas>
-        <competencia_1/>
-        <competencia_2/>
-        <competencia_3/>
-        <competencia_4/>
-        <competencia_5/>
-      </notas>
-    </redacao>
-  </candidato>
-  <candidato inscricao="180007766859">
-    <idade>19</idade>
-    <sexo>Masculino</sexo>
-    <nacionalidade>Brasileiro(a)</nacionalidade>
-    <raca>Branca</raca>
-    <estado_civil>Solteiro(a)</estado_civil>
-    <redacao>
-      <status/>
-      <nota_final/>
-      <notas>
-        <competencia_1/>
-        <competencia_2/>
-        <competencia_3/>
-        <competencia_4/>
-        <competencia_5/>
-      </notas>
-    </redacao>
-  </candidato>
-  <candidato inscricao="180008895631">
-    <idade>19</idade>
-    <sexo>Masculino</sexo>
-    <nacionalidade>Brasileiro(a)</nacionalidade>
-    <raca>Parda</raca>
-    <estado_civil>Solteiro(a)</estado_civil>
-    <redacao>
-      <status>Sem problemas</status>
-      <nota_final>720</nota_final>
-      <notas>
-        <competencia_1>160</competencia_1>
-        <competencia_2>120</competencia_2>
-        <competencia_3>160</competencia_3>
-        <competencia_4>160</competencia_4>
-        <competencia_5>120</competencia_5>
-      </notas>
-    </redacao>
-  </candidato>
-  <candidato inscricao="180008257071">
-    <idade>18</idade>
-    <sexo>Masculino</sexo>
-    <nacionalidade>Brasileiro(a)</nacionalidade>
-    <raca>Branca</raca>
-    <estado_civil>Solteiro(a)</estado_civil>
-    <redacao>
-      <status>Sem problemas</status>
-      <nota_final>340</nota_final>
-      <notas>
-        <competencia_1>100</competencia_1>
-        <competencia_2>40</competencia_2>
-        <competencia_3>40</competencia_3>
-        <competencia_4>120</competencia_4>
-        <competencia_5>40</competencia_5>
-      </notas>
-    </redacao>
-  </candidato>
-  <candidato inscricao="180008202047">
-    <idade>27</idade>
-    <sexo>Feminino</sexo>
-    <nacionalidade>Brasileiro(a)</nacionalidade>
-    <raca>Preta</raca>
-    <estado_civil>Solteiro(a)</estado_civil>
-    <redacao>
-      <status/>
-      <nota_final/>
-      <notas>
-        <competencia_1/>
-        <competencia_2/>
-        <competencia_3/>
-        <competencia_4/>
-        <competencia_5/>
-      </notas>
-    </redacao>
-  </candidato>
-  <candidato inscricao="180008411105">
-    <idade>32</idade>
-    <sexo>Feminino</sexo>
-    <nacionalidade>Brasileiro(a)</nacionalidade>
-    <raca>Branca</raca>
-    <estado_civil>Solteiro(a)</estado_civil>
-    <redacao>
-      <status>Sem problemas</status>
-      <nota_final>620</nota_final>
-      <notas>
-        <competencia_1>140</competencia_1>
-        <competencia_2>120</competencia_2>
-        <competencia_3>140</competencia_3>
-        <competencia_4>120</competencia_4>
-        <competencia_5>100</competencia_5>
-      </notas>
-    </redacao>
-  </candidato>
-  <candidato inscricao="180007286708">
-    <idade>17</idade>
-    <sexo>Feminino</sexo>
-    <nacionalidade>Brasileiro(a)</nacionalidade>
-    <raca>Branca</raca>
-    <estado_civil>Solteiro(a)</estado_civil>
-    <redacao>
-      <status>Sem problemas</status>
-      <nota_final>500</nota_final>
-      <notas>
-        <competencia_1>120</competencia_1>
-        <competencia_2>120</competencia_2>
-        <competencia_3>100</competencia_3>
-        <competencia_4>120</competencia_4>
-        <competencia_5>40</competencia_5>
-      </notas>
-    </redacao>
-  </candidato>
-  <candidato inscricao="180008196153">
-    <idade>23</idade>
-    <sexo>Feminino</sexo>
-    <nacionalidade>Brasileiro(a)</nacionalidade>
-    <raca>Branca</raca>
-    <estado_civil>Solteiro(a)</estado_civil>
-    <redacao>
-      <status>Sem problemas</status>
-      <nota_final>660</nota_final>
-      <notas>
-        <competencia_1>160</competencia_1>
-        <competencia_2>140</competencia_2>
-        <competencia_3>140</competencia_3>
-        <competencia_4>140</competencia_4>
-        <competencia_5>80</competencia_5>
-      </notas>
-    </redacao>
-  </candidato>
-  <candidato inscricao="180008787991">
-    <idade>18</idade>
-    <sexo>Feminino</sexo>
-    <nacionalidade>Brasileiro(a)</nacionalidade>
-    <raca>Branca</raca>
-    <estado_civil>Solteiro(a)</estado_civil>
-    <redacao>
-      <status>Sem problemas</status>
-      <nota_final>800</nota_final>
-      <notas>
-        <competencia_1>140</competencia_1>
-        <competencia_2>180</competencia_2>
-        <competencia_3>160</competencia_3>
-        <competencia_4>180</competencia_4>
-        <competencia_5>140</competencia_5>
-      </notas>
-    </redacao>
-  </candidato>
-  <candidato inscricao="180008309627">
-    <idade>28</idade>
-    <sexo>Masculino</sexo>
-    <nacionalidade>Brasileiro(a)</nacionalidade>
-    <raca>Parda</raca>
-    <estado_civil>Solteiro(a)</estado_civil>
-    <redacao>
-      <status>Sem problemas</status>
-      <nota_final>800</nota_final>
-      <notas>
-        <competencia_1>160</competencia_1>
-        <competencia_2>140</competencia_2>
-        <competencia_3>140</competencia_3>
-        <competencia_4>180</competencia_4>
-        <competencia_5>180</competencia_5>
-      </notas>
-    </redacao>
-  </candidato>
-  <candidato inscricao="180008411476">
-    <idade>20</idade>
-    <sexo>Feminino</sexo>
-    <nacionalidade>Brasileiro(a)</nacionalidade>
-    <raca>Branca</raca>
-    <estado_civil>Solteiro(a)</estado_civil>
-    <redacao>
-      <status>Sem problemas</status>
-      <nota_final>580</nota_final>
-      <notas>
-        <competencia_1>120</competencia_1>
-        <competencia_2>120</competencia_2>
-        <competencia_3>120</competencia_3>
-        <competencia_4>120</competencia_4>
-        <competencia_5>100</competencia_5>
-      </notas>
-    </redacao>
-  </candidato>
-  <candidato inscricao="180007766860">
-    <idade>19</idade>
-    <sexo>Masculino</sexo>
-    <nacionalidade>Brasileiro(a)</nacionalidade>
-    <raca>Amarela</raca>
-    <estado_civil>Solteiro(a)</estado_civil>
-    <redacao>
-      <status>Sem problemas</status>
-      <nota_final>360</nota_final>
-      <notas>
-        <competencia_1>120</competencia_1>
-        <competencia_2>40</competencia_2>
-        <competencia_3>40</competencia_3>
-        <competencia_4>120</competencia_4>
-        <competencia_5>40</competencia_5>
-      </notas>
-    </redacao>
-  </candidato>
-  <candidato inscricao="180008895632">
-    <idade>32</idade>
-    <sexo>Feminino</sexo>
-    <nacionalidade>Brasileiro(a)</nacionalidade>
-    <raca>Preta</raca>
-    <estado_civil/>
-    <redacao>
-      <status>Sem problemas</status>
-      <nota_final>540</nota_final>
-      <notas>
-        <competencia_1>120</competencia_1>
-        <competencia_2>120</competencia_2>
-        <competencia_3>120</competencia_3>
-        <competencia_4>100</competencia_4>
-        <competencia_5>80</competencia_5>
-      </notas>
-    </redacao>
-  </candidato>
-  <candidato inscricao="180008257072">
-    <idade>19</idade>
-    <sexo>Feminino</sexo>
-    <nacionalidade>Brasileiro(a)</nacionalidade>
-    <raca>Parda</raca>
-    <estado_civil>Solteiro(a)</estado_civil>
-    <redacao>
-      <status>Sem problemas</status>
-      <nota_final>580</nota_final>
-      <notas>
-        <competencia_1>160</competencia_1>
-        <competencia_2>120</competencia_2>
-        <competencia_3>140</competencia_3>
-        <competencia_4>160</competencia_4>
-        <competencia_5>0</competencia_5>
-      </notas>
-    </redacao>
-  </candidato>
-  <candidato inscricao="180008202048">
-    <idade>22</idade>
-    <sexo>Feminino</sexo>
-    <nacionalidade>Brasileiro(a)</nacionalidade>
-    <raca>Preta</raca>
-    <estado_civil>Solteiro(a)</estado_civil>
-    <redacao>
-      <status/>
-      <nota_final/>
-      <notas>
-        <competencia_1/>
-        <competencia_2/>
-        <competencia_3/>
-        <competencia_4/>
-        <competencia_5/>
-      </notas>
-    </redacao>
-  </candidato>
-  <candidato inscricao="180008411106">
-    <idade>21</idade>
-    <sexo>Feminino</sexo>
-    <nacionalidade>Brasileiro(a)</nacionalidade>
-    <raca>Parda</raca>
-    <estado_civil>Solteiro(a)</estado_civil>
-    <redacao>
-      <status>Sem problemas</status>
-      <nota_final>560</nota_final>
-      <notas>
-        <competencia_1>140</competencia_1>
-        <competencia_2>120</competencia_2>
-        <competencia_3>120</competencia_3>
-        <competencia_4>120</competencia_4>
-        <competencia_5>60</competencia_5>
-      </notas>
-    </redacao>
-  </candidato>
-  <candidato inscricao="180007286709">
-    <idade>21</idade>
-    <sexo>Masculino</sexo>
-    <nacionalidade>Brasileiro(a)</nacionalidade>
-    <raca>Parda</raca>
-    <estado_civil>Solteiro(a)</estado_civil>
-    <redacao>
-      <status>Sem problemas</status>
-      <nota_final>920</nota_final>
-      <notas>
-        <competencia_1>160</competencia_1>
-        <competencia_2>200</competencia_2>
-        <competencia_3>180</competencia_3>
-        <competencia_4>200</competencia_4>
-        <competencia_5>180</competencia_5>
-      </notas>
-    </redacao>
-  </candidato>
-  <candidato inscricao="180008196154">
-    <idade>31</idade>
-    <sexo>Feminino</sexo>
-    <nacionalidade>Brasileiro(a)</nacionalidade>
-    <raca>Preta</raca>
-    <estado_civil>Casado(a)/Mora com companheiro(a)</estado_civil>
-    <redacao>
-      <status>Sem problemas</status>
-      <nota_final>400</nota_final>
-      <notas>
-        <competencia_1>100</competencia_1>
-        <competencia_2>100</competencia_2>
-        <competencia_3>100</competencia_3>
-        <competencia_4>100</competencia_4>
-        <competencia_5>0</competencia_5>
-      </notas>
-    </redacao>
-  </candidato>
-  <candidato inscricao="180008787992">
-    <idade>17</idade>
-    <sexo>Masculino</sexo>
-    <nacionalidade>Brasileiro(a)</nacionalidade>
-    <raca>Preta</raca>
-    <estado_civil>Solteiro(a)</estado_civil>
-    <redacao>
-      <status>Sem problemas</status>
-      <nota_final>560</nota_final>
-      <notas>
-        <competencia_1>120</competencia_1>
-        <competencia_2>120</competencia_2>
-        <competencia_3>120</competencia_3>
-        <competencia_4>120</competencia_4>
-        <competencia_5>80</competencia_5>
-      </notas>
-    </redacao>
-  </candidato>
-  <candidato inscricao="180008309628">
-    <idade>30</idade>
-    <sexo>Feminino</sexo>
-    <nacionalidade>Brasileiro(a)</nacionalidade>
-    <raca>Branca</raca>
-    <estado_civil>Solteiro(a)</estado_civil>
-    <redacao>
-      <status/>
-      <nota_final/>
-      <notas>
-        <competencia_1/>
-        <competencia_2/>
-        <competencia_3/>
-        <competencia_4/>
-        <competencia_5/>
-      </notas>
-    </redacao>
-  </candidato>
-  <candidato inscricao="180008411477">
-    <idade>19</idade>
-    <sexo>Feminino</sexo>
-    <nacionalidade>Brasileiro(a)</nacionalidade>
-    <raca>Branca</raca>
-    <estado_civil>Solteiro(a)</estado_civil>
-    <redacao>
-      <status/>
-      <nota_final/>
-      <notas>
-        <competencia_1/>
-        <competencia_2/>
-        <competencia_3/>
-        <competencia_4/>
-        <competencia_5/>
-      </notas>
-    </redacao>
-  </candidato>
-  <candidato inscricao="180007766861">
-    <idade>17</idade>
-    <sexo>Feminino</sexo>
-    <nacionalidade>Brasileiro(a)</nacionalidade>
-    <raca>Parda</raca>
-    <estado_civil>Solteiro(a)</estado_civil>
-    <redacao>
-      <status>Sem problemas</status>
-      <nota_final>760</nota_final>
-      <notas>
-        <competencia_1>140</competencia_1>
-        <competencia_2>120</competencia_2>
-        <competencia_3>160</competencia_3>
-        <competencia_4>200</competencia_4>
-        <competencia_5>140</competencia_5>
-      </notas>
-    </redacao>
-  </candidato>
-  <candidato inscricao="180008895633">
-    <idade>21</idade>
-    <sexo>Masculino</sexo>
-    <nacionalidade>Brasileiro(a)</nacionalidade>
-    <raca>Branca</raca>
-    <estado_civil>Solteiro(a)</estado_civil>
-    <redacao>
-      <status>Sem problemas</status>
-      <nota_final>680</nota_final>
-      <notas>
-        <competencia_1>160</competencia_1>
-        <competencia_2>120</competencia_2>
-        <competencia_3>140</competencia_3>
-        <competencia_4>160</competencia_4>
-        <competencia_5>100</competencia_5>
-      </notas>
-    </redacao>
-  </candidato>
-  <candidato inscricao="180008202049">
-    <idade>25</idade>
-    <sexo>Feminino</sexo>
-    <nacionalidade>Brasileiro(a)</nacionalidade>
-    <raca>Não declarado</raca>
-    <estado_civil>Casado(a)/Mora com companheiro(a)</estado_civil>
-    <redacao>
-      <status/>
-      <nota_final/>
-      <notas>
-        <competencia_1/>
-        <competencia_2/>
-        <competencia_3/>
-        <competencia_4/>
-        <competencia_5/>
-      </notas>
-    </redacao>
-  </candidato>
-  <candidato inscricao="180008411107">
-    <idade>26</idade>
-    <sexo>Feminino</sexo>
-    <nacionalidade>Brasileiro(a)</nacionalidade>
-    <raca>Branca</raca>
-    <estado_civil>Solteiro(a)</estado_civil>
-    <redacao>
-      <status/>
-      <nota_final/>
-      <notas>
-        <competencia_1/>
-        <competencia_2/>
-        <competencia_3/>
-        <competencia_4/>
-        <competencia_5/>
-      </notas>
-    </redacao>
-  </candidato>
-  <candidato inscricao="180007286710">
-    <idade>24</idade>
-    <sexo>Feminino</sexo>
-    <nacionalidade>Brasileiro(a)</nacionalidade>
-    <raca>Branca</raca>
-    <estado_civil>Solteiro(a)</estado_civil>
-    <redacao>
-      <status>Sem problemas</status>
-      <nota_final>640</nota_final>
-      <notas>
-        <competencia_1>160</competencia_1>
-        <competencia_2>120</competencia_2>
-        <competencia_3>120</competencia_3>
-        <competencia_4>120</competencia_4>
-        <competencia_5>120</competencia_5>
-      </notas>
-    </redacao>
-  </candidato>
-  <candidato inscricao="180008196155">
-    <idade>16</idade>
-    <sexo>Feminino</sexo>
-    <nacionalidade>Brasileiro(a)</nacionalidade>
-    <raca>Parda</raca>
-    <estado_civil>Solteiro(a)</estado_civil>
-    <redacao>
-      <status>Sem problemas</status>
-      <nota_final>700</nota_final>
-      <notas>
-        <competencia_1>160</competencia_1>
-        <competencia_2>160</competencia_2>
-        <competencia_3>120</competencia_3>
-        <competencia_4>140</competencia_4>
-        <competencia_5>120</competencia_5>
-      </notas>
-    </redacao>
-  </candidato>
-  <candidato inscricao="180008787993">
-    <idade>20</idade>
-    <sexo>Masculino</sexo>
-    <nacionalidade>Brasileiro(a)</nacionalidade>
-    <raca>Parda</raca>
-    <estado_civil>Solteiro(a)</estado_civil>
-    <redacao>
-      <status>Sem problemas</status>
-      <nota_final>720</nota_final>
-      <notas>
-        <competencia_1>160</competencia_1>
-        <competencia_2>160</competencia_2>
-        <competencia_3>140</competencia_3>
-        <competencia_4>160</competencia_4>
-        <competencia_5>100</competencia_5>
-      </notas>
-    </redacao>
-  </candidato>
-  <candidato inscricao="180008309629">
-    <idade>21</idade>
-    <sexo>Feminino</sexo>
-    <nacionalidade>Brasileiro(a) Naturalizado(a)</nacionalidade>
-    <raca>Parda</raca>
-    <estado_civil>Solteiro(a)</estado_civil>
-    <redacao>
-      <status>Sem problemas</status>
-      <nota_final>320</nota_final>
-      <notas>
-        <competencia_1>120</competencia_1>
-        <competencia_2>40</competencia_2>
-        <competencia_3>40</competencia_3>
-        <competencia_4>100</competencia_4>
-        <competencia_5>20</competencia_5>
-      </notas>
-    </redacao>
-  </candidato>
-  <candidato inscricao="180008411478">
-    <idade>39</idade>
-    <sexo>Feminino</sexo>
-    <nacionalidade>Brasileiro(a)</nacionalidade>
-    <raca>Preta</raca>
-    <estado_civil>Solteiro(a)</estado_civil>
-    <redacao>
-      <status/>
-      <nota_final/>
-      <notas>
-        <competencia_1/>
-        <competencia_2/>
-        <competencia_3/>
-        <competencia_4/>
-        <competencia_5/>
-      </notas>
-    </redacao>
-  </candidato>
-  <candidato inscricao="180007766862">
-    <idade>30</idade>
-    <sexo>Feminino</sexo>
-    <nacionalidade>Brasileiro(a)</nacionalidade>
-    <raca>Branca</raca>
-    <estado_civil>Casado(a)/Mora com companheiro(a)</estado_civil>
-    <redacao>
-      <status>Sem problemas</status>
-      <nota_final>520</nota_final>
-      <notas>
-        <competencia_1>120</competencia_1>
-        <competencia_2>120</competencia_2>
-        <competencia_3>120</competencia_3>
-        <competencia_4>100</competencia_4>
-        <competencia_5>60</competencia_5>
-      </notas>
-    </redacao>
-  </candidato>
-  <candidato inscricao="180008895634">
-    <idade>46</idade>
-    <sexo>Masculino</sexo>
-    <nacionalidade>Brasileiro(a)</nacionalidade>
-    <raca>Parda</raca>
-    <estado_civil>Casado(a)/Mora com companheiro(a)</estado_civil>
-    <redacao>
-      <status>Sem problemas</status>
-      <nota_final>280</nota_final>
-      <notas>
-        <competencia_1>100</competencia_1>
-        <competencia_2>40</competencia_2>
-        <competencia_3>20</competencia_3>
-        <competencia_4>80</competencia_4>
-        <competencia_5>40</competencia_5>
-      </notas>
-    </redacao>
-  </candidato>
-  <candidato inscricao="180008257074">
-    <idade>35</idade>
-    <sexo>Feminino</sexo>
-    <nacionalidade>Brasileiro(a)</nacionalidade>
-    <raca>Parda</raca>
-    <estado_civil>Solteiro(a)</estado_civil>
-    <redacao>
-      <status/>
-      <nota_final/>
-      <notas>
-        <competencia_1/>
-        <competencia_2/>
-        <competencia_3/>
-        <competencia_4/>
-        <competencia_5/>
-      </notas>
-    </redacao>
-  </candidato>
-  <candidato inscricao="180008202050">
-    <idade>23</idade>
-    <sexo>Masculino</sexo>
-    <nacionalidade>Brasileiro(a)</nacionalidade>
-    <raca>Parda</raca>
-    <estado_civil>Solteiro(a)</estado_civil>
-    <redacao>
-      <status>Sem problemas</status>
-      <nota_final>780</nota_final>
-      <notas>
-        <competencia_1>160</competencia_1>
-        <competencia_2>160</competencia_2>
-        <competencia_3>160</competencia_3>
-        <competencia_4>160</competencia_4>
-        <competencia_5>140</competencia_5>
-      </notas>
-    </redacao>
-  </candidato>
-  <candidato inscricao="180008411108">
-    <idade>30</idade>
-    <sexo>Masculino</sexo>
-    <nacionalidade>Brasileiro(a)</nacionalidade>
-    <raca>Não declarado</raca>
-    <estado_civil>Casado(a)/Mora com companheiro(a)</estado_civil>
-    <redacao>
-      <status/>
-      <nota_final/>
-      <notas>
-        <competencia_1/>
-        <competencia_2/>
-        <competencia_3/>
-        <competencia_4/>
-        <competencia_5/>
-      </notas>
-    </redacao>
-  </candidato>
-  <candidato inscricao="180007286711">
-    <idade>27</idade>
-    <sexo>Feminino</sexo>
-    <nacionalidade>Brasileiro(a)</nacionalidade>
-    <raca>Branca</raca>
-    <estado_civil>Casado(a)/Mora com companheiro(a)</estado_civil>
-    <redacao>
-      <status>Sem problemas</status>
-      <nota_final>580</nota_final>
-      <notas>
-        <competencia_1>120</competencia_1>
-        <competencia_2>120</competencia_2>
-        <competencia_3>140</competencia_3>
-        <competencia_4>120</competencia_4>
-        <competencia_5>80</competencia_5>
-      </notas>
-    </redacao>
-  </candidato>
-  <candidato inscricao="180008196156">
-    <idade>24</idade>
-    <sexo>Masculino</sexo>
-    <nacionalidade>Brasileiro(a)</nacionalidade>
-    <raca>Branca</raca>
-    <estado_civil>Solteiro(a)</estado_civil>
-    <redacao>
-      <status/>
-      <nota_final/>
-      <notas>
-        <competencia_1/>
-        <competencia_2/>
-        <competencia_3/>
-        <competencia_4/>
-        <competencia_5/>
-      </notas>
-    </redacao>
-  </candidato>
-  <candidato inscricao="180008787994">
-    <idade>25</idade>
-    <sexo>Feminino</sexo>
-    <nacionalidade>Brasileiro(a)</nacionalidade>
-    <raca>Branca</raca>
-    <estado_civil>Casado(a)/Mora com companheiro(a)</estado_civil>
-    <redacao>
-      <status>Sem problemas</status>
-      <nota_final>540</nota_final>
-      <notas>
-        <competencia_1>120</competencia_1>
-        <competencia_2>120</competencia_2>
-        <competencia_3>120</competencia_3>
-        <competencia_4>100</competencia_4>
-        <competencia_5>80</competencia_5>
-      </notas>
-    </redacao>
-  </candidato>
-  <candidato inscricao="180008309630">
-    <idade>17</idade>
-    <sexo>Feminino</sexo>
-    <nacionalidade>Brasileiro(a)</nacionalidade>
-    <raca>Branca</raca>
-    <estado_civil>Solteiro(a)</estado_civil>
-    <redacao>
-      <status>Sem problemas</status>
-      <nota_final>780</nota_final>
-      <notas>
-        <competencia_1>160</competencia_1>
-        <competencia_2>200</competencia_2>
-        <competencia_3>160</competencia_3>
-        <competencia_4>120</competencia_4>
-        <competencia_5>140</competencia_5>
-      </notas>
-    </redacao>
-  </candidato>
-  <candidato inscricao="180008411479">
-    <idade>20</idade>
-    <sexo>Masculino</sexo>
-    <nacionalidade>Brasileiro(a) Naturalizado(a)</nacionalidade>
-    <raca>Parda</raca>
-    <estado_civil>Solteiro(a)</estado_civil>
-    <redacao>
-      <status/>
-      <nota_final/>
-      <notas>
-        <competencia_1/>
-        <competencia_2/>
-        <competencia_3/>
-        <competencia_4/>
-        <competencia_5/>
-      </notas>
-    </redacao>
-  </candidato>
-  <candidato inscricao="180007766863">
-    <idade>19</idade>
-    <sexo>Feminino</sexo>
-    <nacionalidade>Brasileiro(a)</nacionalidade>
-    <raca>Branca</raca>
-    <estado_civil>Solteiro(a)</estado_civil>
-    <redacao>
-      <status/>
-      <nota_final/>
-      <notas>
-        <competencia_1/>
-        <competencia_2/>
-        <competencia_3/>
-        <competencia_4/>
-        <competencia_5/>
-      </notas>
-    </redacao>
-  </candidato>
-  <candidato inscricao="180008895635">
-    <idade>22</idade>
-    <sexo>Feminino</sexo>
-    <nacionalidade>Brasileiro(a)</nacionalidade>
-    <raca>Parda</raca>
-    <estado_civil>Casado(a)/Mora com companheiro(a)</estado_civil>
-    <redacao>
-      <status/>
-      <nota_final/>
-      <notas>
-        <competencia_1/>
-        <competencia_2/>
-        <competencia_3/>
-        <competencia_4/>
-        <competencia_5/>
-      </notas>
-    </redacao>
-  </candidato>
-  <candidato inscricao="180008257075">
-    <idade>22</idade>
-    <sexo>Feminino</sexo>
-    <nacionalidade>Brasileiro(a)</nacionalidade>
-    <raca>Branca</raca>
-    <estado_civil>Solteiro(a)</estado_civil>
-    <redacao>
-      <status>Sem problemas</status>
-      <nota_final>720</nota_final>
-      <notas>
-        <competencia_1>140</competencia_1>
-        <competencia_2>120</competencia_2>
-        <competencia_3>140</competencia_3>
-        <competencia_4>180</competencia_4>
-        <competencia_5>140</competencia_5>
-      </notas>
-    </redacao>
-  </candidato>
-  <candidato inscricao="180008202051">
-    <idade>20</idade>
-    <sexo>Feminino</sexo>
-    <nacionalidade>Brasileiro(a)</nacionalidade>
-    <raca>Parda</raca>
-    <estado_civil>Solteiro(a)</estado_civil>
-    <redacao>
-      <status>Sem problemas</status>
-      <nota_final>400</nota_final>
-      <notas>
-        <competencia_1>120</competencia_1>
-        <competencia_2>40</competencia_2>
-        <competencia_3>40</competencia_3>
-        <competencia_4>160</competencia_4>
-        <competencia_5>40</competencia_5>
-      </notas>
-    </redacao>
-  </candidato>
-  <candidato inscricao="180008411109">
-    <idade>32</idade>
-    <sexo>Feminino</sexo>
-    <nacionalidade>Brasileiro(a)</nacionalidade>
-    <raca>Parda</raca>
-    <estado_civil>Solteiro(a)</estado_civil>
-    <redacao>
-      <status>Sem problemas</status>
-      <nota_final>400</nota_final>
-      <notas>
-        <competencia_1>160</competencia_1>
-        <competencia_2>40</competencia_2>
-        <competencia_3>40</competencia_3>
-        <competencia_4>120</competencia_4>
-        <competencia_5>40</competencia_5>
-      </notas>
-    </redacao>
-  </candidato>
-  <candidato inscricao="180007286712">
-    <idade>39</idade>
-    <sexo>Feminino</sexo>
-    <nacionalidade>Brasileiro(a)</nacionalidade>
-    <raca>Parda</raca>
-    <estado_civil>Casado(a)/Mora com companheiro(a)</estado_civil>
-    <redacao>
-      <status>Sem problemas</status>
-      <nota_final>780</nota_final>
-      <notas>
-        <competencia_1>160</competencia_1>
-        <competencia_2>160</competencia_2>
-        <competencia_3>140</competencia_3>
-        <competencia_4>160</competencia_4>
-        <competencia_5>160</competencia_5>
-      </notas>
-    </redacao>
-  </candidato>
-  <candidato inscricao="180008196157">
-    <idade>37</idade>
-    <sexo>Masculino</sexo>
-    <nacionalidade>Brasileiro(a)</nacionalidade>
-    <raca>Parda</raca>
-    <estado_civil>Casado(a)/Mora com companheiro(a)</estado_civil>
-    <redacao>
-      <status/>
-      <nota_final/>
-      <notas>
-        <competencia_1/>
-        <competencia_2/>
-        <competencia_3/>
-        <competencia_4/>
-        <competencia_5/>
-      </notas>
-    </redacao>
-  </candidato>
-  <candidato inscricao="180008787995">
-    <idade>25</idade>
-    <sexo>Feminino</sexo>
-    <nacionalidade>Brasileiro(a)</nacionalidade>
-    <raca>Parda</raca>
-    <estado_civil>Solteiro(a)</estado_civil>
-    <redacao>
-      <status>Sem problemas</status>
-      <nota_final>460</nota_final>
-      <notas>
-        <competencia_1>140</competencia_1>
-        <competencia_2>100</competencia_2>
-        <competencia_3>100</competencia_3>
-        <competencia_4>120</competencia_4>
-        <competencia_5>0</competencia_5>
-      </notas>
-    </redacao>
-  </candidato>
-  <candidato inscricao="180008309631">
-    <idade>29</idade>
-    <sexo>Masculino</sexo>
-    <nacionalidade>Brasileiro(a)</nacionalidade>
-    <raca>Preta</raca>
-    <estado_civil>Solteiro(a)</estado_civil>
-    <redacao>
-      <status>Sem problemas</status>
-      <nota_final>340</nota_final>
-      <notas>
-        <competencia_1>120</competencia_1>
-        <competencia_2>40</competencia_2>
-        <competencia_3>40</competencia_3>
-        <competencia_4>100</competencia_4>
-        <competencia_5>40</competencia_5>
-      </notas>
-    </redacao>
-  </candidato>
-  <candidato inscricao="180008411480">
-    <idade>23</idade>
-    <sexo>Feminino</sexo>
-    <nacionalidade>Brasileiro(a)</nacionalidade>
-    <raca>Parda</raca>
-    <estado_civil>Solteiro(a)</estado_civil>
-    <redacao>
-      <status>Sem problemas</status>
-      <nota_final>400</nota_final>
-      <notas>
-        <competencia_1>140</competencia_1>
-        <competencia_2>40</competencia_2>
-        <competencia_3>40</competencia_3>
-        <competencia_4>140</competencia_4>
-        <competencia_5>40</competencia_5>
-      </notas>
-    </redacao>
-  </candidato>
-  <candidato inscricao="180007766864">
-    <idade>20</idade>
-    <sexo>Feminino</sexo>
-    <nacionalidade>Brasileiro(a)</nacionalidade>
-    <raca>Branca</raca>
-    <estado_civil>Solteiro(a)</estado_civil>
-    <redacao>
-      <status>Sem problemas</status>
-      <nota_final>380</nota_final>
-      <notas>
-        <competencia_1>140</competencia_1>
-        <competencia_2>40</competencia_2>
-        <competencia_3>40</competencia_3>
-        <competencia_4>120</competencia_4>
-        <competencia_5>40</competencia_5>
-      </notas>
-    </redacao>
-  </candidato>
-  <candidato inscricao="180008895636">
-    <idade>18</idade>
-    <sexo>Feminino</sexo>
-    <nacionalidade>Brasileiro(a)</nacionalidade>
-    <raca>Branca</raca>
-    <estado_civil>Solteiro(a)</estado_civil>
-    <redacao>
-      <status>Sem problemas</status>
-      <nota_final>780</nota_final>
-      <notas>
-        <competencia_1>140</competencia_1>
-        <competencia_2>160</competencia_2>
-        <competencia_3>160</competencia_3>
-        <competencia_4>160</competencia_4>
-        <competencia_5>160</competencia_5>
-      </notas>
-    </redacao>
-  </candidato>
-  <candidato inscricao="180008257076">
-    <idade>18</idade>
-    <sexo>Feminino</sexo>
-    <nacionalidade>Brasileiro(a)</nacionalidade>
-    <raca>Parda</raca>
-    <estado_civil>Solteiro(a)</estado_civil>
-    <redacao>
-      <status>Sem problemas</status>
-      <nota_final>740</nota_final>
-      <notas>
-        <competencia_1>140</competencia_1>
-        <competencia_2>140</competencia_2>
-        <competencia_3>120</competencia_3>
-        <competencia_4>180</competencia_4>
-        <competencia_5>160</competencia_5>
-      </notas>
-    </redacao>
-  </candidato>
-  <candidato inscricao="180008202052">
-    <idade>18</idade>
-    <sexo>Feminino</sexo>
-    <nacionalidade>Brasileiro(a)</nacionalidade>
-    <raca>Branca</raca>
-    <estado_civil>Solteiro(a)</estado_civil>
-    <redacao>
-      <status>Sem problemas</status>
-      <nota_final>520</nota_final>
-      <notas>
-        <competencia_1>100</competencia_1>
-        <competencia_2>120</competencia_2>
-        <competencia_3>100</competencia_3>
-        <competencia_4>100</competencia_4>
-        <competencia_5>100</competencia_5>
-      </notas>
-    </redacao>
-  </candidato>
-  <candidato inscricao="180008411110">
-    <idade>23</idade>
-    <sexo>Feminino</sexo>
-    <nacionalidade>Brasileiro(a)</nacionalidade>
-    <raca>Branca</raca>
-    <estado_civil>Casado(a)/Mora com companheiro(a)</estado_civil>
-    <redacao>
-      <status>Sem problemas</status>
-      <nota_final>340</nota_final>
-      <notas>
-        <competencia_1>120</competencia_1>
-        <competencia_2>40</competencia_2>
-        <competencia_3>40</competencia_3>
-        <competencia_4>120</competencia_4>
-        <competencia_5>20</competencia_5>
-      </notas>
-    </redacao>
-  </candidato>
-  <candidato inscricao="180007286713">
-    <idade>23</idade>
-    <sexo>Masculino</sexo>
-    <nacionalidade>Brasileiro(a)</nacionalidade>
-    <raca>Parda</raca>
-    <estado_civil>Solteiro(a)</estado_civil>
-    <redacao>
-      <status/>
-      <nota_final/>
-      <notas>
-        <competencia_1/>
-        <competencia_2/>
-        <competencia_3/>
-        <competencia_4/>
-        <competencia_5/>
-      </notas>
-    </redacao>
-  </candidato>
-  <candidato inscricao="180008196158">
-    <idade>28</idade>
-    <sexo>Masculino</sexo>
-    <nacionalidade>Brasileiro(a)</nacionalidade>
-    <raca>Parda</raca>
-    <estado_civil>Solteiro(a)</estado_civil>
-    <redacao>
-      <status>Sem problemas</status>
-      <nota_final>440</nota_final>
-      <notas>
-        <competencia_1>160</competencia_1>
-        <competencia_2>40</competencia_2>
-        <competencia_3>40</competencia_3>
-        <competencia_4>160</competencia_4>
-        <competencia_5>40</competencia_5>
-      </notas>
-    </redacao>
-  </candidato>
-  <candidato inscricao="180008787996">
-    <idade>23</idade>
-    <sexo>Masculino</sexo>
-    <nacionalidade>Brasileiro(a)</nacionalidade>
-    <raca>Parda</raca>
-    <estado_civil>Solteiro(a)</estado_civil>
-    <redacao>
-      <status>Sem problemas</status>
-      <nota_final>600</nota_final>
-      <notas>
-        <competencia_1>120</competencia_1>
-        <competencia_2>120</competencia_2>
-        <competencia_3>100</competencia_3>
-        <competencia_4>120</competencia_4>
-        <competencia_5>140</competencia_5>
-      </notas>
-    </redacao>
-  </candidato>
-  <candidato inscricao="180008309632">
-    <idade>20</idade>
-    <sexo>Feminino</sexo>
-    <nacionalidade>Brasileiro(a)</nacionalidade>
-    <raca>Preta</raca>
-    <estado_civil>Solteiro(a)</estado_civil>
-    <redacao>
-      <status>Sem problemas</status>
-      <nota_final>320</nota_final>
-      <notas>
-        <competencia_1>120</competencia_1>
-        <competencia_2>40</competencia_2>
-        <competencia_3>40</competencia_3>
-        <competencia_4>120</competencia_4>
-        <competencia_5>0</competencia_5>
-      </notas>
-    </redacao>
-  </candidato>
-  <candidato inscricao="180008411481">
-    <idade>23</idade>
-    <sexo>Masculino</sexo>
-    <nacionalidade>Brasileiro(a)</nacionalidade>
-    <raca>Parda</raca>
-    <estado_civil>Solteiro(a)</estado_civil>
-    <redacao>
-      <status>Sem problemas</status>
-      <nota_final>840</nota_final>
-      <notas>
-        <competencia_1>160</competencia_1>
-        <competencia_2>180</competencia_2>
-        <competencia_3>160</competencia_3>
-        <competencia_4>180</competencia_4>
-        <competencia_5>160</competencia_5>
-      </notas>
-    </redacao>
-  </candidato>
-  <candidato inscricao="180007766865">
-    <idade>32</idade>
-    <sexo>Feminino</sexo>
-    <nacionalidade>Brasileiro(a)</nacionalidade>
-    <raca>Parda</raca>
-    <estado_civil>Solteiro(a)</estado_civil>
-    <redacao>
-      <status>Sem problemas</status>
-      <nota_final>600</nota_final>
-      <notas>
-        <competencia_1>120</competencia_1>
-        <competencia_2>140</competencia_2>
-        <competencia_3>120</competencia_3>
-        <competencia_4>120</competencia_4>
-        <competencia_5>100</competencia_5>
-      </notas>
-    </redacao>
-  </candidato>
-  <candidato inscricao="180008895637">
-    <idade>18</idade>
-    <sexo>Feminino</sexo>
-    <nacionalidade>Brasileiro(a)</nacionalidade>
-    <raca>Parda</raca>
-    <estado_civil>Solteiro(a)</estado_civil>
-    <redacao>
-      <status>Sem problemas</status>
-      <nota_final>500</nota_final>
-      <notas>
-        <competencia_1>100</competencia_1>
-        <competencia_2>120</competencia_2>
-        <competencia_3>100</competencia_3>
-        <competencia_4>120</competencia_4>
-        <competencia_5>60</competencia_5>
-      </notas>
-    </redacao>
-  </candidato>
-  <candidato inscricao="180008257077">
-    <idade>33</idade>
-    <sexo>Feminino</sexo>
-    <nacionalidade>Brasileiro(a)</nacionalidade>
-    <raca>Parda</raca>
-    <estado_civil>Solteiro(a)</estado_civil>
-    <redacao>
-      <status/>
-      <nota_final/>
-      <notas>
-        <competencia_1/>
-        <competencia_2/>
-        <competencia_3/>
-        <competencia_4/>
-        <competencia_5/>
-      </notas>
-    </redacao>
-  </candidato>
-  <candidato inscricao="180008411111">
-    <idade>32</idade>
-    <sexo>Feminino</sexo>
-    <nacionalidade>Brasileiro(a)</nacionalidade>
-    <raca>Branca</raca>
-    <estado_civil>Solteiro(a)</estado_civil>
-    <redacao>
-      <status/>
-      <nota_final/>
-      <notas>
-        <competencia_1/>
-        <competencia_2/>
-        <competencia_3/>
-        <competencia_4/>
-        <competencia_5/>
-      </notas>
-    </redacao>
-  </candidato>
-  <candidato inscricao="180008202053">
-    <idade>34</idade>
-    <sexo>Feminino</sexo>
-    <nacionalidade>Brasileiro(a)</nacionalidade>
-    <raca>Preta</raca>
-    <estado_civil>Casado(a)/Mora com companheiro(a)</estado_civil>
-    <redacao>
-      <status/>
-      <nota_final/>
-      <notas>
-        <competencia_1/>
-        <competencia_2/>
-        <competencia_3/>
-        <competencia_4/>
-        <competencia_5/>
-      </notas>
-    </redacao>
-  </candidato>
-  <candidato inscricao="180007286714">
-    <idade>37</idade>
-    <sexo>Feminino</sexo>
-    <nacionalidade>Brasileiro(a)</nacionalidade>
-    <raca>Preta</raca>
-    <estado_civil>Solteiro(a)</estado_civil>
-    <redacao>
-      <status/>
-      <nota_final/>
-      <notas>
-        <competencia_1/>
-        <competencia_2/>
-        <competencia_3/>
-        <competencia_4/>
-        <competencia_5/>
-      </notas>
-    </redacao>
-  </candidato>
-  <candidato inscricao="180008196159">
-    <idade>18</idade>
-    <sexo>Feminino</sexo>
-    <nacionalidade>Brasileiro(a)</nacionalidade>
-    <raca>Parda</raca>
-    <estado_civil>Solteiro(a)</estado_civil>
-    <redacao>
-      <status/>
-      <nota_final/>
-      <notas>
-        <competencia_1/>
-        <competencia_2/>
-        <competencia_3/>
-        <competencia_4/>
-        <competencia_5/>
-      </notas>
-    </redacao>
-  </candidato>
-  <candidato inscricao="180008787997">
-    <idade>17</idade>
-    <sexo>Masculino</sexo>
-    <nacionalidade>Brasileiro(a)</nacionalidade>
-    <raca>Parda</raca>
-    <estado_civil>Solteiro(a)</estado_civil>
-    <redacao>
-      <status>Sem problemas</status>
-      <nota_final>920</nota_final>
-      <notas>
-        <competencia_1>160</competencia_1>
-        <competencia_2>200</competencia_2>
-        <competencia_3>180</competencia_3>
-        <competencia_4>200</competencia_4>
-        <competencia_5>180</competencia_5>
-      </notas>
-    </redacao>
-  </candidato>
-  <candidato inscricao="180008309633">
-    <idade>25</idade>
-    <sexo>Feminino</sexo>
-    <nacionalidade>Brasileiro(a)</nacionalidade>
-    <raca>Branca</raca>
-    <estado_civil>Solteiro(a)</estado_civil>
-    <redacao>
-      <status/>
-      <nota_final/>
-      <notas>
-        <competencia_1/>
-        <competencia_2/>
-        <competencia_3/>
-        <competencia_4/>
-        <competencia_5/>
-      </notas>
-    </redacao>
-  </candidato>
-  <candidato inscricao="180008411482">
-    <idade>29</idade>
-    <sexo>Feminino</sexo>
-    <nacionalidade>Brasileiro(a)</nacionalidade>
-    <raca>Branca</raca>
-    <estado_civil/>
-    <redacao>
-      <status/>
-      <nota_final/>
-      <notas>
-        <competencia_1/>
-        <competencia_2/>
-        <competencia_3/>
-        <competencia_4/>
-        <competencia_5/>
-      </notas>
-    </redacao>
-  </candidato>
-  <candidato inscricao="180007766866">
-    <idade>18</idade>
-    <sexo>Feminino</sexo>
-    <nacionalidade>Brasileiro(a)</nacionalidade>
-    <raca>Branca</raca>
-    <estado_civil>Solteiro(a)</estado_civil>
-    <redacao>
-      <status>Sem problemas</status>
-      <nota_final>600</nota_final>
-      <notas>
-        <competencia_1>140</competencia_1>
-        <competencia_2>120</competencia_2>
-        <competencia_3>120</competencia_3>
-        <competencia_4>140</competencia_4>
-        <competencia_5>80</competencia_5>
-      </notas>
-    </redacao>
-  </candidato>
-  <candidato inscricao="180008895638">
-    <idade>29</idade>
-    <sexo>Masculino</sexo>
-    <nacionalidade>Brasileiro(a)</nacionalidade>
-    <raca>Preta</raca>
-    <estado_civil>Casado(a)/Mora com companheiro(a)</estado_civil>
-    <redacao>
-      <status/>
-      <nota_final/>
-      <notas>
-        <competencia_1/>
-        <competencia_2/>
-        <competencia_3/>
-        <competencia_4/>
-        <competencia_5/>
-      </notas>
-    </redacao>
-  </candidato>
-  <candidato inscricao="180008202054">
-    <idade>26</idade>
-    <sexo>Masculino</sexo>
-    <nacionalidade>Brasileiro(a)</nacionalidade>
-    <raca>Parda</raca>
-    <estado_civil>Solteiro(a)</estado_civil>
-    <redacao>
-      <status/>
-      <nota_final/>
-      <notas>
-        <competencia_1/>
-        <competencia_2/>
-        <competencia_3/>
-        <competencia_4/>
-        <competencia_5/>
-      </notas>
-    </redacao>
-  </candidato>
-  <candidato inscricao="180007286715">
-    <idade>20</idade>
-    <sexo>Feminino</sexo>
-    <nacionalidade>Brasileiro(a)</nacionalidade>
-    <raca>Branca</raca>
-    <estado_civil>Solteiro(a)</estado_civil>
-    <redacao>
-      <status>Sem problemas</status>
-      <nota_final>740</nota_final>
-      <notas>
-        <competencia_1>160</competencia_1>
-        <competencia_2>120</competencia_2>
-        <competencia_3>140</competencia_3>
-        <competencia_4>160</competencia_4>
-        <competencia_5>160</competencia_5>
-      </notas>
-    </redacao>
-  </candidato>
-  <candidato inscricao="180008196160">
-    <idade>22</idade>
-    <sexo>Feminino</sexo>
-    <nacionalidade>Brasileiro(a)</nacionalidade>
-    <raca>Branca</raca>
-    <estado_civil>Solteiro(a)</estado_civil>
-    <redacao>
-      <status>Sem problemas</status>
-      <nota_final>580</nota_final>
-      <notas>
-        <competencia_1>120</competencia_1>
-        <competencia_2>120</competencia_2>
-        <competencia_3>120</competencia_3>
-        <competencia_4>120</competencia_4>
-        <competencia_5>100</competencia_5>
-      </notas>
-    </redacao>
-  </candidato>
-  <candidato inscricao="180008787998">
-    <idade>21</idade>
-    <sexo>Feminino</sexo>
-    <nacionalidade>Brasileiro(a)</nacionalidade>
-    <raca>Parda</raca>
-    <estado_civil>Solteiro(a)</estado_civil>
-    <redacao>
-      <status>Sem problemas</status>
-      <nota_final>520</nota_final>
-      <notas>
-        <competencia_1>100</competencia_1>
-        <competencia_2>120</competencia_2>
-        <competencia_3>100</competencia_3>
-        <competencia_4>120</competencia_4>
-        <competencia_5>80</competencia_5>
-      </notas>
-    </redacao>
-  </candidato>
-  <candidato inscricao="180008309634">
-    <idade>22</idade>
-    <sexo>Feminino</sexo>
-    <nacionalidade>Brasileiro(a)</nacionalidade>
-    <raca>Branca</raca>
-    <estado_civil>Casado(a)/Mora com companheiro(a)</estado_civil>
-    <redacao>
-      <status>Sem problemas</status>
-      <nota_final>560</nota_final>
-      <notas>
-        <competencia_1>80</competencia_1>
-        <competencia_2>120</competencia_2>
-        <competencia_3>120</competencia_3>
-        <competencia_4>120</competencia_4>
-        <competencia_5>120</competencia_5>
-      </notas>
-    </redacao>
-  </candidato>
-  <candidato inscricao="180008411483">
-    <idade>22</idade>
-    <sexo>Feminino</sexo>
-    <nacionalidade>Brasileiro(a)</nacionalidade>
-    <raca>Parda</raca>
-    <estado_civil>Solteiro(a)</estado_civil>
-    <redacao>
-      <status>Sem problemas</status>
-      <nota_final>400</nota_final>
-      <notas>
-        <competencia_1>120</competencia_1>
-        <competencia_2>80</competencia_2>
-        <competencia_3>60</competencia_3>
-        <competencia_4>120</competencia_4>
-        <competencia_5>20</competencia_5>
-      </notas>
-    </redacao>
-  </candidato>
-  <candidato inscricao="180007766867">
-    <idade>17</idade>
-    <sexo>Feminino</sexo>
-    <nacionalidade>Brasileiro(a)</nacionalidade>
-    <raca>Branca</raca>
-    <estado_civil>Solteiro(a)</estado_civil>
-    <redacao>
-      <status/>
-      <nota_final/>
-      <notas>
-        <competencia_1/>
-        <competencia_2/>
-        <competencia_3/>
-        <competencia_4/>
-        <competencia_5/>
-      </notas>
-    </redacao>
-  </candidato>
-  <candidato inscricao="180008895639">
-    <idade>35</idade>
-    <sexo>Feminino</sexo>
-    <nacionalidade>Brasileiro(a)</nacionalidade>
-    <raca>Preta</raca>
-    <estado_civil>Casado(a)/Mora com companheiro(a)</estado_civil>
-    <redacao>
-      <status/>
-      <nota_final/>
-      <notas>
-        <competencia_1/>
-        <competencia_2/>
-        <competencia_3/>
-        <competencia_4/>
-        <competencia_5/>
-      </notas>
-    </redacao>
-  </candidato>
-  <candidato inscricao="180008257079">
-    <idade>19</idade>
-    <sexo>Masculino</sexo>
-    <nacionalidade>Brasileiro(a)</nacionalidade>
-    <raca>Preta</raca>
-    <estado_civil>Solteiro(a)</estado_civil>
-    <redacao>
-      <status/>
-      <nota_final/>
-      <notas>
-        <competencia_1/>
-        <competencia_2/>
-        <competencia_3/>
-        <competencia_4/>
-        <competencia_5/>
-      </notas>
-    </redacao>
-  </candidato>
-  <candidato inscricao="180008202055">
-    <idade>23</idade>
-    <sexo>Feminino</sexo>
-    <nacionalidade>Brasileiro(a)</nacionalidade>
-    <raca>Parda</raca>
-    <estado_civil>Solteiro(a)</estado_civil>
-    <redacao>
-      <status>Sem problemas</status>
-      <nota_final>520</nota_final>
-      <notas>
-        <competencia_1>120</competencia_1>
-        <competencia_2>120</competencia_2>
-        <competencia_3>120</competencia_3>
-        <competencia_4>120</competencia_4>
-        <competencia_5>40</competencia_5>
-      </notas>
-    </redacao>
-  </candidato>
-  <candidato inscricao="180008411113">
-    <idade>18</idade>
-    <sexo>Masculino</sexo>
-    <nacionalidade>Brasileiro(a)</nacionalidade>
-    <raca>Parda</raca>
-    <estado_civil>Solteiro(a)</estado_civil>
-    <redacao>
-      <status>Sem problemas</status>
-      <nota_final>920</nota_final>
-      <notas>
-        <competencia_1>160</competencia_1>
-        <competencia_2>200</competencia_2>
-        <competencia_3>200</competencia_3>
-        <competencia_4>160</competencia_4>
-        <competencia_5>200</competencia_5>
-      </notas>
-    </redacao>
-  </candidato>
-  <candidato inscricao="180007286716">
-    <idade>19</idade>
-    <sexo>Masculino</sexo>
-    <nacionalidade>Brasileiro(a)</nacionalidade>
-    <raca>Parda</raca>
-    <estado_civil>Solteiro(a)</estado_civil>
-    <redacao>
-      <status>Sem problemas</status>
-      <nota_final>800</nota_final>
-      <notas>
-        <competencia_1>160</competencia_1>
-        <competencia_2>160</competencia_2>
-        <competencia_3>160</competencia_3>
-        <competencia_4>200</competencia_4>
-        <competencia_5>120</competencia_5>
-      </notas>
-    </redacao>
-  </candidato>
-  <candidato inscricao="180008196161">
-    <idade>17</idade>
-    <sexo>Masculino</sexo>
-    <nacionalidade>Brasileiro(a)</nacionalidade>
-    <raca>Parda</raca>
-    <estado_civil>Solteiro(a)</estado_civil>
-    <redacao>
-      <status>Sem problemas</status>
-      <nota_final>380</nota_final>
-      <notas>
-        <competencia_1>140</competencia_1>
-        <competencia_2>40</competencia_2>
-        <competencia_3>40</competencia_3>
-        <competencia_4>120</competencia_4>
-        <competencia_5>40</competencia_5>
-      </notas>
-    </redacao>
-  </candidato>
-  <candidato inscricao="180008787999">
-    <idade>18</idade>
-    <sexo>Masculino</sexo>
-    <nacionalidade>Brasileiro(a)</nacionalidade>
-    <raca>Parda</raca>
-    <estado_civil>Solteiro(a)</estado_civil>
-    <redacao>
-      <status>Sem problemas</status>
-      <nota_final>720</nota_final>
-      <notas>
-        <competencia_1>120</competencia_1>
-        <competencia_2>200</competencia_2>
-        <competencia_3>120</competencia_3>
-        <competencia_4>160</competencia_4>
-        <competencia_5>120</competencia_5>
-      </notas>
-    </redacao>
-  </candidato>
-  <candidato inscricao="180008309635">
-    <idade>41</idade>
-    <sexo>Feminino</sexo>
-    <nacionalidade>Brasileiro(a)</nacionalidade>
-    <raca>Parda</raca>
-    <estado_civil>Solteiro(a)</estado_civil>
-    <redacao>
-      <status>Sem problemas</status>
-      <nota_final>520</nota_final>
-      <notas>
-        <competencia_1>120</competencia_1>
-        <competencia_2>120</competencia_2>
-        <competencia_3>100</competencia_3>
-        <competencia_4>100</competencia_4>
-        <competencia_5>80</competencia_5>
-      </notas>
-    </redacao>
-  </candidato>
-  <candidato inscricao="180008411484">
-    <idade>35</idade>
-    <sexo>Feminino</sexo>
-    <nacionalidade>Brasileiro(a)</nacionalidade>
-    <raca>Branca</raca>
-    <estado_civil>Casado(a)/Mora com companheiro(a)</estado_civil>
-    <redacao>
-      <status>Sem problemas</status>
-      <nota_final>300</nota_final>
-      <notas>
-        <competencia_1>120</competencia_1>
-        <competencia_2>40</competencia_2>
-        <competencia_3>40</competencia_3>
-        <competencia_4>100</competencia_4>
-        <competencia_5>0</competencia_5>
-      </notas>
-    </redacao>
-  </candidato>
-  <candidato inscricao="180007766868">
-    <idade>32</idade>
-    <sexo>Feminino</sexo>
-    <nacionalidade>Brasileiro(a)</nacionalidade>
-    <raca>Preta</raca>
-    <estado_civil>Solteiro(a)</estado_civil>
-    <redacao>
-      <status>Sem problemas</status>
-      <nota_final>560</nota_final>
-      <notas>
-        <competencia_1>120</competencia_1>
-        <competencia_2>120</competencia_2>
-        <competencia_3>120</competencia_3>
-        <competencia_4>120</competencia_4>
-        <competencia_5>80</competencia_5>
-      </notas>
-    </redacao>
-  </candidato>
-  <candidato inscricao="180008895640">
-    <idade>15</idade>
-    <sexo>Masculino</sexo>
-    <nacionalidade>Brasileiro(a)</nacionalidade>
-    <raca>Branca</raca>
-    <estado_civil>Solteiro(a)</estado_civil>
-    <redacao>
-      <status>Sem problemas</status>
-      <nota_final>500</nota_final>
-      <notas>
-        <competencia_1>140</competencia_1>
-        <competencia_2>120</competencia_2>
-        <competencia_3>120</competencia_3>
-        <competencia_4>100</competencia_4>
-        <competencia_5>20</competencia_5>
-      </notas>
-    </redacao>
-  </candidato>
-  <candidato inscricao="180008257080">
-    <idade>21</idade>
-    <sexo>Masculino</sexo>
-    <nacionalidade>Brasileiro(a)</nacionalidade>
-    <raca>Preta</raca>
-    <estado_civil>Solteiro(a)</estado_civil>
-    <redacao>
-      <status>Sem problemas</status>
-      <nota_final>680</nota_final>
-      <notas>
-        <competencia_1>160</competencia_1>
-        <competencia_2>120</competencia_2>
-        <competencia_3>140</competencia_3>
-        <competencia_4>160</competencia_4>
-        <competencia_5>100</competencia_5>
-      </notas>
-    </redacao>
-  </candidato>
-  <candidato inscricao="180008202056">
-    <idade>26</idade>
-    <sexo>Masculino</sexo>
-    <nacionalidade>Brasileiro(a)</nacionalidade>
-    <raca>Branca</raca>
-    <estado_civil>Solteiro(a)</estado_civil>
-    <redacao>
-      <status>Sem problemas</status>
-      <nota_final>600</nota_final>
-      <notas>
-        <competencia_1>140</competencia_1>
-        <competencia_2>120</competencia_2>
-        <competencia_3>120</competencia_3>
-        <competencia_4>120</competencia_4>
-        <competencia_5>100</competencia_5>
-      </notas>
-    </redacao>
-  </candidato>
-  <candidato inscricao="180008411114">
-    <idade>18</idade>
-    <sexo>Masculino</sexo>
-    <nacionalidade>Brasileiro(a)</nacionalidade>
-    <raca>Preta</raca>
-    <estado_civil>Solteiro(a)</estado_civil>
-    <redacao>
-      <status>Sem problemas</status>
-      <nota_final>900</nota_final>
-      <notas>
-        <competencia_1>160</competencia_1>
-        <competencia_2>200</competencia_2>
-        <competencia_3>180</competencia_3>
-        <competencia_4>200</competencia_4>
-        <competencia_5>160</competencia_5>
-      </notas>
-    </redacao>
-  </candidato>
-  <candidato inscricao="180007286717">
-    <idade>18</idade>
-    <sexo>Masculino</sexo>
-    <nacionalidade>Brasileiro(a)</nacionalidade>
-    <raca>Preta</raca>
-    <estado_civil>Solteiro(a)</estado_civil>
-    <redacao>
-      <status>Sem problemas</status>
-      <nota_final>920</nota_final>
-      <notas>
-        <competencia_1>180</competencia_1>
-        <competencia_2>200</competencia_2>
-        <competencia_3>180</competencia_3>
-        <competencia_4>200</competencia_4>
-        <competencia_5>160</competencia_5>
-      </notas>
-    </redacao>
-  </candidato>
-  <candidato inscricao="180008196162">
-    <idade>21</idade>
-    <sexo>Feminino</sexo>
-    <nacionalidade>Brasileiro(a)</nacionalidade>
-    <raca>Parda</raca>
-    <estado_civil>Solteiro(a)</estado_civil>
-    <redacao>
-      <status>Sem problemas</status>
-      <nota_final>640</nota_final>
-      <notas>
-        <competencia_1>140</competencia_1>
-        <competencia_2>140</competencia_2>
-        <competencia_3>140</competencia_3>
-        <competencia_4>160</competencia_4>
-        <competencia_5>60</competencia_5>
-      </notas>
-    </redacao>
-  </candidato>
-  <candidato inscricao="180008411485">
-    <idade>17</idade>
-    <sexo>Masculino</sexo>
-    <nacionalidade>Brasileiro(a)</nacionalidade>
-    <raca>Parda</raca>
-    <estado_civil>Solteiro(a)</estado_civil>
-    <redacao>
-      <status>Sem problemas</status>
-      <nota_final>520</nota_final>
-      <notas>
-        <competencia_1>100</competencia_1>
-        <competencia_2>120</competencia_2>
-        <competencia_3>100</competencia_3>
-        <competencia_4>120</competencia_4>
-        <competencia_5>80</competencia_5>
-      </notas>
-    </redacao>
-  </candidato>
-  <candidato inscricao="180008309636">
-    <idade>32</idade>
-    <sexo>Feminino</sexo>
-    <nacionalidade>Brasileiro(a)</nacionalidade>
-    <raca>Branca</raca>
-    <estado_civil>Solteiro(a)</estado_civil>
-    <redacao>
-      <status>Sem problemas</status>
-      <nota_final>280</nota_final>
-      <notas>
-        <competencia_1>120</competencia_1>
-        <competencia_2>40</competencia_2>
-        <competencia_3>40</competencia_3>
-        <competencia_4>60</competencia_4>
-        <competencia_5>20</competencia_5>
-      </notas>
-    </redacao>
-  </candidato>
-  <candidato inscricao="180007766869">
-    <idade>34</idade>
-    <sexo>Feminino</sexo>
-    <nacionalidade>Brasileiro(a)</nacionalidade>
-    <raca>Parda</raca>
-    <estado_civil>Solteiro(a)</estado_civil>
-    <redacao>
-      <status/>
-      <nota_final/>
-      <notas>
-        <competencia_1/>
-        <competencia_2/>
-        <competencia_3/>
-        <competencia_4/>
-        <competencia_5/>
-      </notas>
-    </redacao>
-  </candidato>
-  <candidato inscricao="180008895641">
-    <idade>19</idade>
-    <sexo>Masculino</sexo>
-    <nacionalidade>Brasileiro(a)</nacionalidade>
-    <raca>Parda</raca>
-    <estado_civil>Solteiro(a)</estado_civil>
-    <redacao>
-      <status/>
-      <nota_final/>
-      <notas>
-        <competencia_1/>
-        <competencia_2/>
-        <competencia_3/>
-        <competencia_4/>
-        <competencia_5/>
-      </notas>
-    </redacao>
-  </candidato>
-  <candidato inscricao="180008257081">
-    <idade>21</idade>
-    <sexo>Feminino</sexo>
-    <nacionalidade>Brasileiro(a)</nacionalidade>
-    <raca>Amarela</raca>
-    <estado_civil/>
-    <redacao>
-      <status>Sem problemas</status>
-      <nota_final>540</nota_final>
-      <notas>
-        <competencia_1>160</competencia_1>
-        <competencia_2>120</competencia_2>
-        <competencia_3>120</competencia_3>
-        <competencia_4>140</competencia_4>
-        <competencia_5>0</competencia_5>
-      </notas>
-    </redacao>
-  </candidato>
-  <candidato inscricao="180008202057">
-    <idade>18</idade>
-    <sexo>Masculino</sexo>
-    <nacionalidade>Brasileiro(a)</nacionalidade>
-    <raca>Preta</raca>
-    <estado_civil>Solteiro(a)</estado_civil>
-    <redacao>
-      <status/>
-      <nota_final/>
-      <notas>
-        <competencia_1/>
-        <competencia_2/>
-        <competencia_3/>
-        <competencia_4/>
-        <competencia_5/>
-      </notas>
-    </redacao>
-  </candidato>
-  <candidato inscricao="180008411115">
-    <idade>17</idade>
-    <sexo>Feminino</sexo>
-    <nacionalidade>Brasileiro(a)</nacionalidade>
-    <raca>Parda</raca>
-    <estado_civil>Solteiro(a)</estado_civil>
-    <redacao>
-      <status>Sem problemas</status>
-      <nota_final>540</nota_final>
-      <notas>
-        <competencia_1>120</competencia_1>
-        <competencia_2>120</competencia_2>
-        <competencia_3>120</competencia_3>
-        <competencia_4>120</competencia_4>
-        <competencia_5>60</competencia_5>
-      </notas>
-    </redacao>
-  </candidato>
-  <candidato inscricao="180007286718">
-    <idade>24</idade>
-    <sexo>Feminino</sexo>
-    <nacionalidade>Brasileiro(a)</nacionalidade>
-    <raca>Preta</raca>
-    <estado_civil>Solteiro(a)</estado_civil>
-    <redacao>
-      <status>Sem problemas</status>
-      <nota_final>740</nota_final>
-      <notas>
-        <competencia_1>160</competencia_1>
-        <competencia_2>140</competencia_2>
-        <competencia_3>160</competencia_3>
-        <competencia_4>160</competencia_4>
-        <competencia_5>120</competencia_5>
-      </notas>
-    </redacao>
-  </candidato>
-  <candidato inscricao="180008196163">
-    <idade>26</idade>
-    <sexo>Feminino</sexo>
-    <nacionalidade>Brasileiro(a)</nacionalidade>
-    <raca>Amarela</raca>
-    <estado_civil>Casado(a)/Mora com companheiro(a)</estado_civil>
-    <redacao>
-      <status/>
-      <nota_final/>
-      <notas>
-        <competencia_1/>
-        <competencia_2/>
-        <competencia_3/>
-        <competencia_4/>
-        <competencia_5/>
-      </notas>
-    </redacao>
-  </candidato>
-  <candidato inscricao="180008788001">
-    <idade>35</idade>
-    <sexo>Feminino</sexo>
-    <nacionalidade>Brasileiro(a)</nacionalidade>
-    <raca>Branca</raca>
-    <estado_civil>Solteiro(a)</estado_civil>
-    <redacao>
-      <status/>
-      <nota_final/>
-      <notas>
-        <competencia_1/>
-        <competencia_2/>
-        <competencia_3/>
-        <competencia_4/>
-        <competencia_5/>
-      </notas>
-    </redacao>
-  </candidato>
-  <candidato inscricao="180008309637">
-    <idade>19</idade>
-    <sexo>Feminino</sexo>
-    <nacionalidade>Brasileiro(a) Naturalizado(a)</nacionalidade>
-    <raca>Parda</raca>
-    <estado_civil>Solteiro(a)</estado_civil>
-    <redacao>
-      <status>Sem problemas</status>
-      <nota_final>540</nota_final>
-      <notas>
-        <competencia_1>120</competencia_1>
-        <competencia_2>120</competencia_2>
-        <competencia_3>100</competencia_3>
-        <competencia_4>140</competencia_4>
-        <competencia_5>60</competencia_5>
-      </notas>
-    </redacao>
-  </candidato>
-  <candidato inscricao="180008411486">
-    <idade>17</idade>
-    <sexo>Feminino</sexo>
-    <nacionalidade>Brasileiro(a)</nacionalidade>
-    <raca>Branca</raca>
-    <estado_civil>Solteiro(a)</estado_civil>
-    <redacao>
-      <status>Sem problemas</status>
-      <nota_final>760</nota_final>
-      <notas>
-        <competencia_1>140</competencia_1>
-        <competencia_2>120</competencia_2>
-        <competencia_3>140</competencia_3>
-        <competencia_4>160</competencia_4>
-        <competencia_5>200</competencia_5>
-      </notas>
-    </redacao>
-  </candidato>
-  <candidato inscricao="180007766870">
-    <idade>24</idade>
-    <sexo>Feminino</sexo>
-    <nacionalidade>Brasileiro(a)</nacionalidade>
-    <raca>Parda</raca>
-    <estado_civil>Solteiro(a)</estado_civil>
-    <redacao>
-      <status/>
-      <nota_final/>
-      <notas>
-        <competencia_1/>
-        <competencia_2/>
-        <competencia_3/>
-        <competencia_4/>
-        <competencia_5/>
-      </notas>
-    </redacao>
-  </candidato>
-  <candidato inscricao="180008895642">
-    <idade>25</idade>
-    <sexo>Masculino</sexo>
-    <nacionalidade>Brasileiro(a)</nacionalidade>
-    <raca>Parda</raca>
-    <estado_civil>Solteiro(a)</estado_civil>
-    <redacao>
-      <status/>
-      <nota_final/>
-      <notas>
-        <competencia_1/>
-        <competencia_2/>
-        <competencia_3/>
-        <competencia_4/>
-        <competencia_5/>
-      </notas>
-    </redacao>
-  </candidato>
-  <candidato inscricao="180008202058">
-    <idade>19</idade>
-    <sexo>Masculino</sexo>
-    <nacionalidade>Brasileiro(a)</nacionalidade>
-    <raca>Preta</raca>
-    <estado_civil>Solteiro(a)</estado_civil>
-    <redacao>
-      <status>Sem problemas</status>
-      <nota_final>920</nota_final>
-      <notas>
-        <competencia_1>160</competencia_1>
-        <competencia_2>200</competencia_2>
-        <competencia_3>160</competencia_3>
-        <competencia_4>200</competencia_4>
-        <competencia_5>200</competencia_5>
-      </notas>
-    </redacao>
-  </candidato>
-  <candidato inscricao="180008257082">
-    <idade>24</idade>
-    <sexo>Feminino</sexo>
-    <nacionalidade>Brasileiro(a)</nacionalidade>
-    <raca>Branca</raca>
-    <estado_civil>Solteiro(a)</estado_civil>
-    <redacao>
-      <status/>
-      <nota_final/>
-      <notas>
-        <competencia_1/>
-        <competencia_2/>
-        <competencia_3/>
-        <competencia_4/>
-        <competencia_5/>
-      </notas>
-    </redacao>
-  </candidato>
-  <candidato inscricao="180008411116">
-    <idade>29</idade>
-    <sexo>Masculino</sexo>
-    <nacionalidade>Brasileiro(a)</nacionalidade>
-    <raca>Branca</raca>
-    <estado_civil>Solteiro(a)</estado_civil>
-    <redacao>
-      <status/>
-      <nota_final/>
-      <notas>
-        <competencia_1/>
-        <competencia_2/>
-        <competencia_3/>
-        <competencia_4/>
-        <competencia_5/>
-      </notas>
-    </redacao>
-  </candidato>
-  <candidato inscricao="180007286719">
-    <idade>18</idade>
-    <sexo>Masculino</sexo>
-    <nacionalidade>Brasileiro(a)</nacionalidade>
-    <raca>Preta</raca>
-    <estado_civil>Solteiro(a)</estado_civil>
-    <redacao>
-      <status/>
-      <nota_final/>
-      <notas>
-        <competencia_1/>
-        <competencia_2/>
-        <competencia_3/>
-        <competencia_4/>
-        <competencia_5/>
-      </notas>
-    </redacao>
-  </candidato>
-  <candidato inscricao="180008196164">
-    <idade>42</idade>
-    <sexo>Feminino</sexo>
-    <nacionalidade>Brasileiro(a)</nacionalidade>
-    <raca>Branca</raca>
-    <estado_civil>Casado(a)/Mora com companheiro(a)</estado_civil>
-    <redacao>
-      <status/>
-      <nota_final/>
-      <notas>
-        <competencia_1/>
-        <competencia_2/>
-        <competencia_3/>
-        <competencia_4/>
-        <competencia_5/>
-      </notas>
-    </redacao>
-  </candidato>
-  <candidato inscricao="180008788002">
-    <idade>22</idade>
-    <sexo>Masculino</sexo>
-    <nacionalidade>Brasileiro(a)</nacionalidade>
-    <raca>Parda</raca>
-    <estado_civil>Solteiro(a)</estado_civil>
-    <redacao>
-      <status>Sem problemas</status>
-      <nota_final>500</nota_final>
-      <notas>
-        <competencia_1>120</competencia_1>
-        <competencia_2>120</competencia_2>
-        <competencia_3>120</competencia_3>
-        <competencia_4>120</competencia_4>
-        <competencia_5>20</competencia_5>
-      </notas>
-    </redacao>
-  </candidato>
-  <candidato inscricao="180008309638">
-    <idade>21</idade>
-    <sexo>Feminino</sexo>
-    <nacionalidade>Brasileiro(a)</nacionalidade>
-    <raca>Parda</raca>
-    <estado_civil>Solteiro(a)</estado_civil>
-    <redacao>
-      <status>Sem problemas</status>
-      <nota_final>800</nota_final>
-      <notas>
-        <competencia_1>160</competencia_1>
-        <competencia_2>180</competencia_2>
-        <competencia_3>160</competencia_3>
-        <competencia_4>200</competencia_4>
-        <competencia_5>100</competencia_5>
-      </notas>
-    </redacao>
-  </candidato>
-  <candidato inscricao="180008411487">
-    <idade>42</idade>
-    <sexo>Masculino</sexo>
-    <nacionalidade>Brasileiro(a)</nacionalidade>
-    <raca>Parda</raca>
-    <estado_civil>Divorciado(a)/Desquitado(a)/Separado(a)</estado_civil>
-    <redacao>
-      <status>Sem problemas</status>
-      <nota_final>500</nota_final>
-      <notas>
-        <competencia_1>100</competencia_1>
-        <competencia_2>80</competencia_2>
-        <competencia_3>100</competencia_3>
-        <competencia_4>80</competencia_4>
-        <competencia_5>140</competencia_5>
-      </notas>
-    </redacao>
-  </candidato>
-  <candidato inscricao="180007766871">
-    <idade>27</idade>
-    <sexo>Feminino</sexo>
-    <nacionalidade>Brasileiro(a)</nacionalidade>
-    <raca>Preta</raca>
-    <estado_civil>Solteiro(a)</estado_civil>
-    <redacao>
-      <status>Sem problemas</status>
-      <nota_final>580</nota_final>
-      <notas>
-        <competencia_1>140</competencia_1>
-        <competencia_2>120</competencia_2>
-        <competencia_3>120</competencia_3>
-        <competencia_4>120</competencia_4>
-        <competencia_5>80</competencia_5>
-      </notas>
-    </redacao>
-  </candidato>
-  <candidato inscricao="180008895643">
-    <idade>19</idade>
-    <sexo>Feminino</sexo>
-    <nacionalidade>Brasileiro(a)</nacionalidade>
-    <raca>Branca</raca>
-    <estado_civil>Solteiro(a)</estado_civil>
-    <redacao>
-      <status>Sem problemas</status>
-      <nota_final>800</nota_final>
-      <notas>
-        <competencia_1>140</competencia_1>
-        <competencia_2>180</competencia_2>
-        <competencia_3>140</competencia_3>
-        <competencia_4>180</competencia_4>
-        <competencia_5>160</competencia_5>
-      </notas>
-    </redacao>
-  </candidato>
-  <candidato inscricao="180008257083">
-    <idade>18</idade>
-    <sexo>Feminino</sexo>
-    <nacionalidade>Brasileiro(a)</nacionalidade>
-    <raca>Branca</raca>
-    <estado_civil>Solteiro(a)</estado_civil>
-    <redacao>
-      <status>Sem problemas</status>
-      <nota_final>540</nota_final>
-      <notas>
-        <competencia_1>120</competencia_1>
-        <competencia_2>120</competencia_2>
-        <competencia_3>120</competencia_3>
-        <competencia_4>100</competencia_4>
-        <competencia_5>80</competencia_5>
-      </notas>
-    </redacao>
-  </candidato>
-  <candidato inscricao="180008202059">
-    <idade>22</idade>
-    <sexo>Feminino</sexo>
-    <nacionalidade>Brasileiro(a)</nacionalidade>
-    <raca>Parda</raca>
-    <estado_civil>Solteiro(a)</estado_civil>
-    <redacao>
-      <status>Sem problemas</status>
-      <nota_final>600</nota_final>
-      <notas>
-        <competencia_1>140</competencia_1>
-        <competencia_2>120</competencia_2>
-        <competencia_3>120</competencia_3>
-        <competencia_4>120</competencia_4>
-        <competencia_5>100</competencia_5>
-      </notas>
-    </redacao>
-  </candidato>
-  <candidato inscricao="180008411117">
-    <idade>34</idade>
-    <sexo>Masculino</sexo>
-    <nacionalidade>Brasileiro(a)</nacionalidade>
-    <raca>Parda</raca>
-    <estado_civil>Casado(a)/Mora com companheiro(a)</estado_civil>
-    <redacao>
-      <status/>
-      <nota_final/>
-      <notas>
-        <competencia_1/>
-        <competencia_2/>
-        <competencia_3/>
-        <competencia_4/>
-        <competencia_5/>
-      </notas>
-    </redacao>
-  </candidato>
-  <candidato inscricao="180007286720">
-    <idade>22</idade>
-    <sexo>Masculino</sexo>
-    <nacionalidade>Brasileiro(a)</nacionalidade>
-    <raca>Branca</raca>
-    <estado_civil>Solteiro(a)</estado_civil>
-    <redacao>
-      <status>Sem problemas</status>
-      <nota_final>620</nota_final>
-      <notas>
-        <competencia_1>120</competencia_1>
-        <competencia_2>120</competencia_2>
-        <competencia_3>120</competencia_3>
-        <competencia_4>120</competencia_4>
-        <competencia_5>140</competencia_5>
-      </notas>
-    </redacao>
-  </candidato>
-  <candidato inscricao="180008196165">
-    <idade>26</idade>
-    <sexo>Masculino</sexo>
-    <nacionalidade>Brasileiro(a)</nacionalidade>
-    <raca>Branca</raca>
-    <estado_civil>Casado(a)/Mora com companheiro(a)</estado_civil>
-    <redacao>
-      <status>Sem problemas</status>
-      <nota_final>520</nota_final>
-      <notas>
-        <competencia_1>120</competencia_1>
-        <competencia_2>100</competencia_2>
-        <competencia_3>120</competencia_3>
-        <competencia_4>120</competencia_4>
-        <competencia_5>60</competencia_5>
-      </notas>
-    </redacao>
-  </candidato>
-  <candidato inscricao="180008788003">
-    <idade>21</idade>
-    <sexo>Masculino</sexo>
-    <nacionalidade>Brasileiro(a)</nacionalidade>
-    <raca>Parda</raca>
-    <estado_civil>Solteiro(a)</estado_civil>
-    <redacao>
-      <status>Sem problemas</status>
-      <nota_final>960</nota_final>
-      <notas>
-        <competencia_1>160</competencia_1>
-        <competencia_2>200</competencia_2>
-        <competencia_3>200</competencia_3>
-        <competencia_4>200</competencia_4>
-        <competencia_5>200</competencia_5>
-      </notas>
-    </redacao>
-  </candidato>
-  <candidato inscricao="180008309639">
-    <idade>25</idade>
-    <sexo>Feminino</sexo>
-    <nacionalidade>Brasileiro(a)</nacionalidade>
-    <raca>Branca</raca>
-    <estado_civil>Casado(a)/Mora com companheiro(a)</estado_civil>
-    <redacao>
-      <status/>
-      <nota_final/>
-      <notas>
-        <competencia_1/>
-        <competencia_2/>
-        <competencia_3/>
-        <competencia_4/>
-        <competencia_5/>
-      </notas>
-    </redacao>
-  </candidato>
-  <candidato inscricao="180008411488">
-    <idade>33</idade>
-    <sexo>Feminino</sexo>
-    <nacionalidade>Brasileiro(a)</nacionalidade>
-    <raca>Branca</raca>
-    <estado_civil/>
-    <redacao>
-      <status>Sem problemas</status>
-      <nota_final>620</nota_final>
-      <notas>
-        <competencia_1>120</competencia_1>
-        <competencia_2>120</competencia_2>
-        <competencia_3>120</competencia_3>
-        <competencia_4>120</competencia_4>
-        <competencia_5>140</competencia_5>
-      </notas>
-    </redacao>
-  </candidato>
-  <candidato inscricao="180007766872">
-    <idade>27</idade>
-    <sexo>Feminino</sexo>
-    <nacionalidade>Brasileiro(a)</nacionalidade>
-    <raca>Parda</raca>
-    <estado_civil>Solteiro(a)</estado_civil>
-    <redacao>
-      <status>Sem problemas</status>
-      <nota_final>480</nota_final>
-      <notas>
-        <competencia_1>120</competencia_1>
-        <competencia_2>120</competencia_2>
-        <competencia_3>120</competencia_3>
-        <competencia_4>120</competencia_4>
-        <competencia_5>0</competencia_5>
-      </notas>
-    </redacao>
-  </candidato>
-  <candidato inscricao="180008895644">
-    <idade>17</idade>
-    <sexo>Feminino</sexo>
-    <nacionalidade>Brasileiro(a)</nacionalidade>
-    <raca>Branca</raca>
-    <estado_civil>Solteiro(a)</estado_civil>
-    <redacao>
-      <status>Sem problemas</status>
-      <nota_final>620</nota_final>
-      <notas>
-        <competencia_1>120</competencia_1>
-        <competencia_2>120</competencia_2>
-        <competencia_3>120</competencia_3>
-        <competencia_4>120</competencia_4>
-        <competencia_5>140</competencia_5>
-      </notas>
-    </redacao>
-  </candidato>
-  <candidato inscricao="180008257084">
-    <idade>24</idade>
-    <sexo>Masculino</sexo>
-    <nacionalidade>Brasileiro(a)</nacionalidade>
-    <raca>Parda</raca>
-    <estado_civil/>
-    <redacao>
-      <status>Sem problemas</status>
-      <nota_final>520</nota_final>
-      <notas>
-        <competencia_1>120</competencia_1>
-        <competencia_2>120</competencia_2>
-        <competencia_3>120</competencia_3>
-        <competencia_4>100</competencia_4>
-        <competencia_5>60</competencia_5>
-      </notas>
-    </redacao>
-  </candidato>
-  <candidato inscricao="180008202060">
-    <idade>25</idade>
-    <sexo>Feminino</sexo>
-    <nacionalidade>Brasileiro(a)</nacionalidade>
-    <raca>Branca</raca>
-    <estado_civil>Casado(a)/Mora com companheiro(a)</estado_civil>
-    <redacao>
-      <status>Sem problemas</status>
-      <nota_final>520</nota_final>
-      <notas>
-        <competencia_1>120</competencia_1>
-        <competencia_2>120</competencia_2>
-        <competencia_3>120</competencia_3>
-        <competencia_4>100</competencia_4>
-        <competencia_5>60</competencia_5>
-      </notas>
-    </redacao>
-  </candidato>
-  <candidato inscricao="180008411118">
-    <idade>19</idade>
-    <sexo>Feminino</sexo>
-    <nacionalidade>Brasileiro(a)</nacionalidade>
-    <raca>Parda</raca>
-    <estado_civil>Solteiro(a)</estado_civil>
-    <redacao>
-      <status>Sem problemas</status>
-      <nota_final>600</nota_final>
-      <notas>
-        <competencia_1>120</competencia_1>
-        <competencia_2>140</competencia_2>
-        <competencia_3>120</competencia_3>
-        <competencia_4>120</competencia_4>
-        <competencia_5>100</competencia_5>
-      </notas>
-    </redacao>
-  </candidato>
-  <candidato inscricao="180007286721">
-    <idade>24</idade>
-    <sexo>Masculino</sexo>
-    <nacionalidade>Brasileiro(a)</nacionalidade>
-    <raca>Branca</raca>
-    <estado_civil>Solteiro(a)</estado_civil>
-    <redacao>
-      <status>Sem problemas</status>
-      <nota_final>860</nota_final>
-      <notas>
-        <competencia_1>160</competencia_1>
-        <competencia_2>200</competencia_2>
-        <competencia_3>180</competencia_3>
-        <competencia_4>180</competencia_4>
-        <competencia_5>140</competencia_5>
-      </notas>
-    </redacao>
-  </candidato>
-  <candidato inscricao="180008196166">
-    <idade>29</idade>
-    <sexo>Feminino</sexo>
-    <nacionalidade>Brasileiro(a)</nacionalidade>
-    <raca>Parda</raca>
-    <estado_civil>Solteiro(a)</estado_civil>
-    <redacao>
-      <status/>
-      <nota_final/>
-      <notas>
-        <competencia_1/>
-        <competencia_2/>
-        <competencia_3/>
-        <competencia_4/>
-        <competencia_5/>
-      </notas>
-    </redacao>
-  </candidato>
-  <candidato inscricao="180008788004">
-    <idade>29</idade>
-    <sexo>Feminino</sexo>
-    <nacionalidade>Brasileiro(a)</nacionalidade>
-    <raca>Parda</raca>
-    <estado_civil>Solteiro(a)</estado_civil>
-    <redacao>
-      <status>Sem problemas</status>
-      <nota_final>640</nota_final>
-      <notas>
-        <competencia_1>140</competencia_1>
-        <competencia_2>120</competencia_2>
-        <competencia_3>120</competencia_3>
-        <competencia_4>140</competencia_4>
-        <competencia_5>120</competencia_5>
-      </notas>
-    </redacao>
-  </candidato>
-  <candidato inscricao="180008309640">
-    <idade>25</idade>
-    <sexo>Feminino</sexo>
-    <nacionalidade>Brasileiro(a)</nacionalidade>
-    <raca>Parda</raca>
-    <estado_civil>Solteiro(a)</estado_civil>
-    <redacao>
-      <status>Sem problemas</status>
-      <nota_final>340</nota_final>
-      <notas>
-        <competencia_1>120</competencia_1>
-        <competencia_2>40</competencia_2>
-        <competencia_3>40</competencia_3>
-        <competencia_4>100</competencia_4>
-        <competencia_5>40</competencia_5>
-      </notas>
-    </redacao>
-  </candidato>
-  <candidato inscricao="180008411489">
-    <idade>53</idade>
-    <sexo>Feminino</sexo>
-    <nacionalidade>Brasileiro(a)</nacionalidade>
-    <raca>Branca</raca>
-    <estado_civil>Casado(a)/Mora com companheiro(a)</estado_civil>
-    <redacao>
-      <status/>
-      <nota_final/>
-      <notas>
-        <competencia_1/>
-        <competencia_2/>
-        <competencia_3/>
-        <competencia_4/>
-        <competencia_5/>
-      </notas>
-    </redacao>
-  </candidato>
-  <candidato inscricao="180007766873">
-    <idade>18</idade>
-    <sexo>Feminino</sexo>
-    <nacionalidade>Brasileiro(a)</nacionalidade>
-    <raca>Branca</raca>
-    <estado_civil>Solteiro(a)</estado_civil>
-    <redacao>
-      <status>Sem problemas</status>
-      <nota_final>800</nota_final>
-      <notas>
-        <competencia_1>160</competencia_1>
-        <competencia_2>160</competencia_2>
-        <competencia_3>160</competencia_3>
-        <competencia_4>160</competencia_4>
-        <competencia_5>160</competencia_5>
-      </notas>
-    </redacao>
-  </candidato>
-  <candidato inscricao="180008895645">
-    <idade>18</idade>
-    <sexo>Masculino</sexo>
-    <nacionalidade>Brasileiro(a)</nacionalidade>
-    <raca>Parda</raca>
-    <estado_civil>Solteiro(a)</estado_civil>
-    <redacao>
-      <status>Sem problemas</status>
-      <nota_final>360</nota_final>
-      <notas>
-        <competencia_1>120</competencia_1>
-        <competencia_2>40</competencia_2>
-        <competencia_3>40</competencia_3>
-        <competencia_4>120</competencia_4>
-        <competencia_5>40</competencia_5>
-      </notas>
-    </redacao>
-  </candidato>
-  <candidato inscricao="180008257085">
-    <idade>21</idade>
-    <sexo>Masculino</sexo>
-    <nacionalidade>Brasileiro(a)</nacionalidade>
-    <raca>Parda</raca>
-    <estado_civil>Solteiro(a)</estado_civil>
-    <redacao>
-      <status/>
-      <nota_final/>
-      <notas>
-        <competencia_1/>
-        <competencia_2/>
-        <competencia_3/>
-        <competencia_4/>
-        <competencia_5/>
-      </notas>
-    </redacao>
-  </candidato>
-  <candidato inscricao="180008202061">
-    <idade>20</idade>
-    <sexo>Masculino</sexo>
-    <nacionalidade>Brasileiro(a)</nacionalidade>
-    <raca>Branca</raca>
-    <estado_civil>Solteiro(a)</estado_civil>
-    <redacao>
-      <status>Sem problemas</status>
-      <nota_final>680</nota_final>
-      <notas>
-        <competencia_1>120</competencia_1>
-        <competencia_2>160</competencia_2>
-        <competencia_3>160</competencia_3>
-        <competencia_4>140</competencia_4>
-        <competencia_5>100</competencia_5>
-      </notas>
-    </redacao>
-  </candidato>
-  <candidato inscricao="180008411119">
-    <idade>18</idade>
-    <sexo>Feminino</sexo>
-    <nacionalidade>Brasileiro(a) Naturalizado(a)</nacionalidade>
-    <raca>Indígena</raca>
-    <estado_civil>Solteiro(a)</estado_civil>
-    <redacao>
-      <status>Sem problemas</status>
-      <nota_final>360</nota_final>
-      <notas>
-        <competencia_1>120</competencia_1>
-        <competencia_2>40</competencia_2>
-        <competencia_3>40</competencia_3>
-        <competencia_4>120</competencia_4>
-        <competencia_5>40</competencia_5>
-      </notas>
-    </redacao>
-  </candidato>
-  <candidato inscricao="180007286722">
-    <idade>18</idade>
-    <sexo>Masculino</sexo>
-    <nacionalidade>Brasileiro(a)</nacionalidade>
-    <raca>Preta</raca>
-    <estado_civil>Solteiro(a)</estado_civil>
-    <redacao>
-      <status>Sem problemas</status>
-      <nota_final>600</nota_final>
-      <notas>
-        <competencia_1>120</competencia_1>
-        <competencia_2>120</competencia_2>
-        <competencia_3>120</competencia_3>
-        <competencia_4>120</competencia_4>
-        <competencia_5>120</competencia_5>
-      </notas>
-    </redacao>
-  </candidato>
-  <candidato inscricao="180008196167">
-    <idade>29</idade>
-    <sexo>Feminino</sexo>
-    <nacionalidade>Brasileiro(a)</nacionalidade>
-    <raca>Preta</raca>
-    <estado_civil>Solteiro(a)</estado_civil>
-    <redacao>
-      <status/>
-      <nota_final/>
-      <notas>
-        <competencia_1/>
-        <competencia_2/>
-        <competencia_3/>
-        <competencia_4/>
-        <competencia_5/>
-      </notas>
-    </redacao>
-  </candidato>
-  <candidato inscricao="180008788005">
-    <idade>19</idade>
-    <sexo>Feminino</sexo>
-    <nacionalidade>Brasileiro(a)</nacionalidade>
-    <raca>Preta</raca>
-    <estado_civil>Solteiro(a)</estado_civil>
-    <redacao>
-      <status>Sem problemas</status>
-      <nota_final>380</nota_final>
-      <notas>
-        <competencia_1>120</competencia_1>
-        <competencia_2>40</competencia_2>
-        <competencia_3>60</competencia_3>
-        <competencia_4>120</competencia_4>
-        <competencia_5>40</competencia_5>
-      </notas>
-    </redacao>
-  </candidato>
-  <candidato inscricao="180008309641">
-    <idade>25</idade>
-    <sexo>Feminino</sexo>
-    <nacionalidade>Brasileiro(a)</nacionalidade>
-    <raca>Parda</raca>
-    <estado_civil>Solteiro(a)</estado_civil>
-    <redacao>
-      <status>Sem problemas</status>
-      <nota_final>820</nota_final>
-      <notas>
-        <competencia_1>180</competencia_1>
-        <competencia_2>120</competencia_2>
-        <competencia_3>180</competencia_3>
-        <competencia_4>180</competencia_4>
-        <competencia_5>160</competencia_5>
-      </notas>
-    </redacao>
-  </candidato>
-  <candidato inscricao="180008411490">
-    <idade>23</idade>
-    <sexo>Feminino</sexo>
-    <nacionalidade>Brasileiro(a)</nacionalidade>
-    <raca>Branca</raca>
-    <estado_civil>Solteiro(a)</estado_civil>
-    <redacao>
-      <status>Sem problemas</status>
-      <nota_final>440</nota_final>
-      <notas>
-        <competencia_1>120</competencia_1>
-        <competencia_2>100</competencia_2>
-        <competencia_3>100</competencia_3>
-        <competencia_4>80</competencia_4>
-        <competencia_5>40</competencia_5>
-      </notas>
-    </redacao>
-  </candidato>
-  <candidato inscricao="180007766874">
-    <idade>19</idade>
-    <sexo>Feminino</sexo>
-    <nacionalidade>Brasileiro(a)</nacionalidade>
-    <raca>Preta</raca>
-    <estado_civil>Solteiro(a)</estado_civil>
-    <redacao>
-      <status>Sem problemas</status>
-      <nota_final>620</nota_final>
-      <notas>
-        <competencia_1>100</competencia_1>
-        <competencia_2>140</competencia_2>
-        <competencia_3>140</competencia_3>
-        <competencia_4>120</competencia_4>
-        <competencia_5>120</competencia_5>
-      </notas>
-    </redacao>
-  </candidato>
-  <candidato inscricao="180008895646">
-    <idade>18</idade>
-    <sexo>Feminino</sexo>
-    <nacionalidade>Brasileiro(a)</nacionalidade>
-    <raca>Branca</raca>
-    <estado_civil>Solteiro(a)</estado_civil>
-    <redacao>
-      <status>Sem problemas</status>
-      <nota_final>640</nota_final>
-      <notas>
-        <competencia_1>140</competencia_1>
-        <competencia_2>140</competencia_2>
-        <competencia_3>120</competencia_3>
-        <competencia_4>120</competencia_4>
-        <competencia_5>120</competencia_5>
-      </notas>
-    </redacao>
-  </candidato>
-  <candidato inscricao="180008257086">
-    <idade>30</idade>
-    <sexo>Masculino</sexo>
-    <nacionalidade>Brasileiro(a)</nacionalidade>
-    <raca>Parda</raca>
-    <estado_civil>Solteiro(a)</estado_civil>
-    <redacao>
-      <status>Sem problemas</status>
-      <nota_final>380</nota_final>
-      <notas>
-        <competencia_1>140</competencia_1>
-        <competencia_2>40</competencia_2>
-        <competencia_3>40</competencia_3>
-        <competencia_4>120</competencia_4>
-        <competencia_5>40</competencia_5>
-      </notas>
-    </redacao>
-  </candidato>
-  <candidato inscricao="180008202062">
-    <idade>19</idade>
-    <sexo>Feminino</sexo>
-    <nacionalidade>Brasileiro(a)</nacionalidade>
-    <raca>Branca</raca>
-    <estado_civil>Solteiro(a)</estado_civil>
-    <redacao>
-      <status>Sem problemas</status>
-      <nota_final>720</nota_final>
-      <notas>
-        <competencia_1>180</competencia_1>
-        <competencia_2>120</competencia_2>
-        <competencia_3>160</competencia_3>
-        <competencia_4>140</competencia_4>
-        <competencia_5>120</competencia_5>
-      </notas>
-    </redacao>
-  </candidato>
-  <candidato inscricao="180008411120">
-    <idade>20</idade>
-    <sexo>Masculino</sexo>
-    <nacionalidade>Brasileiro(a)</nacionalidade>
-    <raca>Parda</raca>
-    <estado_civil>Solteiro(a)</estado_civil>
-    <redacao>
-      <status/>
-      <nota_final/>
-      <notas>
-        <competencia_1/>
-        <competencia_2/>
-        <competencia_3/>
-        <competencia_4/>
-        <competencia_5/>
-      </notas>
-    </redacao>
-  </candidato>
-  <candidato inscricao="180007286723">
-    <idade>26</idade>
-    <sexo>Feminino</sexo>
-    <nacionalidade>Brasileiro(a)</nacionalidade>
-    <raca>Preta</raca>
-    <estado_civil>Solteiro(a)</estado_civil>
-    <redacao>
-      <status>Sem problemas</status>
-      <nota_final>580</nota_final>
-      <notas>
-        <competencia_1>120</competencia_1>
-        <competencia_2>120</competencia_2>
-        <competencia_3>100</competencia_3>
-        <competencia_4>120</competencia_4>
-        <competencia_5>120</competencia_5>
-      </notas>
-    </redacao>
-  </candidato>
-  <candidato inscricao="180008196168">
-    <idade>38</idade>
-    <sexo>Masculino</sexo>
-    <nacionalidade>Brasileiro(a)</nacionalidade>
-    <raca>Branca</raca>
-    <estado_civil>Solteiro(a)</estado_civil>
-    <redacao>
-      <status>Sem problemas</status>
-      <nota_final>540</nota_final>
-      <notas>
-        <competencia_1>120</competencia_1>
-        <competencia_2>120</competencia_2>
-        <competencia_3>120</competencia_3>
-        <competencia_4>120</competencia_4>
-        <competencia_5>60</competencia_5>
-      </notas>
-    </redacao>
-  </candidato>
-  <candidato inscricao="180008788006">
-    <idade>44</idade>
-    <sexo>Feminino</sexo>
-    <nacionalidade>Brasileiro(a)</nacionalidade>
-    <raca>Parda</raca>
-    <estado_civil/>
-    <redacao>
-      <status>Sem problemas</status>
-      <nota_final>280</nota_final>
-      <notas>
-        <competencia_1>80</competencia_1>
-        <competencia_2>40</competencia_2>
-        <competencia_3>40</competencia_3>
-        <competencia_4>80</competencia_4>
-        <competencia_5>40</competencia_5>
-      </notas>
-    </redacao>
-  </candidato>
-  <candidato inscricao="180008309642">
-    <idade>17</idade>
-    <sexo>Feminino</sexo>
-    <nacionalidade>Brasileiro(a)</nacionalidade>
-    <raca>Não declarado</raca>
-    <estado_civil>Solteiro(a)</estado_civil>
-    <redacao>
-      <status/>
-      <nota_final/>
-      <notas>
-        <competencia_1/>
-        <competencia_2/>
-        <competencia_3/>
-        <competencia_4/>
-        <competencia_5/>
-      </notas>
-    </redacao>
-  </candidato>
-  <candidato inscricao="180008411491">
-    <idade>28</idade>
-    <sexo>Feminino</sexo>
-    <nacionalidade>Brasileiro(a)</nacionalidade>
-    <raca>Preta</raca>
-    <estado_civil>Solteiro(a)</estado_civil>
-    <redacao>
-      <status>Sem problemas</status>
-      <nota_final>500</nota_final>
-      <notas>
-        <competencia_1>140</competencia_1>
-        <competencia_2>120</competencia_2>
-        <competencia_3>120</competencia_3>
-        <competencia_4>120</competencia_4>
-        <competencia_5>0</competencia_5>
-      </notas>
-    </redacao>
-  </candidato>
-  <candidato inscricao="180007766875">
-    <idade>20</idade>
-    <sexo>Feminino</sexo>
-    <nacionalidade>Brasileiro(a)</nacionalidade>
-    <raca>Parda</raca>
-    <estado_civil>Solteiro(a)</estado_civil>
-    <redacao>
-      <status>Sem problemas</status>
-      <nota_final>300</nota_final>
-      <notas>
-        <competencia_1>100</competencia_1>
-        <competencia_2>40</competencia_2>
-        <competencia_3>40</competencia_3>
-        <competencia_4>80</competencia_4>
-        <competencia_5>40</competencia_5>
-      </notas>
-    </redacao>
-  </candidato>
-  <candidato inscricao="180008895647">
-    <idade>17</idade>
-    <sexo>Feminino</sexo>
-    <nacionalidade>Brasileiro(a)</nacionalidade>
-    <raca>Branca</raca>
-    <estado_civil>Solteiro(a)</estado_civil>
-    <redacao>
-      <status>Sem problemas</status>
-      <nota_final>700</nota_final>
-      <notas>
-        <competencia_1>160</competencia_1>
-        <competencia_2>140</competencia_2>
-        <competencia_3>120</competencia_3>
-        <competencia_4>120</competencia_4>
-        <competencia_5>160</competencia_5>
-      </notas>
-    </redacao>
-  </candidato>
-  <candidato inscricao="180008202063">
-    <idade>22</idade>
-    <sexo>Feminino</sexo>
-    <nacionalidade>Brasileiro(a)</nacionalidade>
-    <raca>Preta</raca>
-    <estado_civil>Solteiro(a)</estado_civil>
-    <redacao>
-      <status>Sem problemas</status>
-      <nota_final>280</nota_final>
-      <notas>
-        <competencia_1>60</competencia_1>
-        <competencia_2>60</competencia_2>
-        <competencia_3>60</competencia_3>
-        <competencia_4>80</competencia_4>
-        <competencia_5>20</competencia_5>
-      </notas>
-    </redacao>
-  </candidato>
-  <candidato inscricao="180008411121">
-    <idade>19</idade>
-    <sexo>Masculino</sexo>
-    <nacionalidade>Brasileiro(a)</nacionalidade>
-    <raca>Parda</raca>
-    <estado_civil>Solteiro(a)</estado_civil>
-    <redacao>
-      <status>Sem problemas</status>
-      <nota_final>500</nota_final>
-      <notas>
-        <competencia_1>100</competencia_1>
-        <competencia_2>120</competencia_2>
-        <competencia_3>80</competencia_3>
-        <competencia_4>120</competencia_4>
-        <competencia_5>80</competencia_5>
-      </notas>
-    </redacao>
-  </candidato>
-  <candidato inscricao="180008196169">
-    <idade>25</idade>
-    <sexo>Masculino</sexo>
-    <nacionalidade>Brasileiro(a)</nacionalidade>
-    <raca>Branca</raca>
-    <estado_civil>Solteiro(a)</estado_civil>
-    <redacao>
-      <status/>
-      <nota_final/>
-      <notas>
-        <competencia_1/>
-        <competencia_2/>
-        <competencia_3/>
-        <competencia_4/>
-        <competencia_5/>
-      </notas>
-    </redacao>
-  </candidato>
-  <candidato inscricao="180008309643">
-    <idade>20</idade>
-    <sexo>Masculino</sexo>
-    <nacionalidade>Brasileiro(a)</nacionalidade>
-    <raca>Parda</raca>
-    <estado_civil>Solteiro(a)</estado_civil>
-    <redacao>
-      <status>Sem problemas</status>
-      <nota_final>380</nota_final>
-      <notas>
-        <competencia_1>140</competencia_1>
-        <competencia_2>40</competencia_2>
-        <competencia_3>40</competencia_3>
-        <competencia_4>120</competencia_4>
-        <competencia_5>40</competencia_5>
-      </notas>
-    </redacao>
-  </candidato>
-  <candidato inscricao="180008411492">
-    <idade>31</idade>
-    <sexo>Masculino</sexo>
-    <nacionalidade>Brasileiro(a)</nacionalidade>
-    <raca>Branca</raca>
-    <estado_civil>Casado(a)/Mora com companheiro(a)</estado_civil>
-    <redacao>
-      <status>Sem problemas</status>
-      <nota_final>540</nota_final>
-      <notas>
-        <competencia_1>100</competencia_1>
-        <competencia_2>120</competencia_2>
-        <competencia_3>120</competencia_3>
-        <competencia_4>120</competencia_4>
-        <competencia_5>80</competencia_5>
-      </notas>
-    </redacao>
-  </candidato>
-  <candidato inscricao="180007766876">
-    <idade>19</idade>
-    <sexo>Feminino</sexo>
-    <nacionalidade>Brasileiro(a)</nacionalidade>
-    <raca>Preta</raca>
-    <estado_civil>Solteiro(a)</estado_civil>
-    <redacao>
-      <status>Sem problemas</status>
-      <nota_final>340</nota_final>
-      <notas>
-        <competencia_1>120</competencia_1>
-        <competencia_2>40</competencia_2>
-        <competencia_3>40</competencia_3>
-        <competencia_4>100</competencia_4>
-        <competencia_5>40</competencia_5>
-      </notas>
-    </redacao>
-  </candidato>
-  <candidato inscricao="180008895648">
-    <idade>41</idade>
-    <sexo>Feminino</sexo>
-    <nacionalidade>Brasileiro(a)</nacionalidade>
-    <raca>Parda</raca>
-    <estado_civil>Solteiro(a)</estado_civil>
-    <redacao>
-      <status/>
-      <nota_final/>
-      <notas>
-        <competencia_1/>
-        <competencia_2/>
-        <competencia_3/>
-        <competencia_4/>
-        <competencia_5/>
-      </notas>
-    </redacao>
-  </candidato>
-  <candidato inscricao="180008257088">
-    <idade>24</idade>
-    <sexo>Feminino</sexo>
-    <nacionalidade>Brasileiro(a)</nacionalidade>
-    <raca>Parda</raca>
-    <estado_civil>Solteiro(a)</estado_civil>
-    <redacao>
-      <status>Sem problemas</status>
-      <nota_final>260</nota_final>
-      <notas>
-        <competencia_1>100</competencia_1>
-        <competencia_2>40</competencia_2>
-        <competencia_3>40</competencia_3>
-        <competencia_4>80</competencia_4>
-        <competencia_5>0</competencia_5>
-      </notas>
-    </redacao>
+    <provas>
+      <prova>
+        <descricao>Ciências da Natureza</descricao>
+        <presenca>Presente na prova</presenca>
+        <nota>501.5</nota>
+      </prova>
+      <prova>
+        <descricao>Ciências Humanas</descricao>
+        <presenca>Presente na prova</presenca>
+        <nota>540.6</nota>
+      </prova>
+      <prova>
+        <descricao>Linguagens e Códigos</descricao>
+        <presenca>Presente na prova</presenca>
+        <nota>531.5</nota>
+      </prova>
+      <prova>
+        <descricao>Matemática</descricao>
+        <presenca>Presente na prova</presenca>
+        <nota>595.3</nota>
+      </prova>
+    </provas>
   </candidato>
 </candidatos>
