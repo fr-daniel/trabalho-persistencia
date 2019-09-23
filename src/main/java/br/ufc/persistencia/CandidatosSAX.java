@@ -23,11 +23,11 @@ import br.ufc.persistencia.models.Redacao;
 public class CandidatosSAX extends DefaultHandler {
 
 	private String pathJson;
-	
+
 	private String tagAtual;
-	
+
 	private List<Candidato> candidatos;
-	
+
 	private Candidato candidatoAtual;
 	private Redacao redacaoAtual;
 	private NotasRedacao notasRedacaoAtual;
@@ -40,12 +40,12 @@ public class CandidatosSAX extends DefaultHandler {
 
 	public void fazerParsing(String pathArq, String pathJson) {
 		this.pathJson = pathJson;
-		
+
 		SAXParserFactory factory = SAXParserFactory.newInstance();
 		SAXParser saxParser;
 
 		try {
-			
+
 			saxParser = factory.newSAXParser();
 			saxParser.parse(pathArq, this);
 
@@ -55,21 +55,21 @@ public class CandidatosSAX extends DefaultHandler {
 	}
 
 	public void startDocument() {
-		System.out.println("\nInicio do Parsing...");
 	}
 
 	public void endDocument() {
-		System.out.println("\nFim do Parsing...");
-		for (Candidato candidato : candidatos) {
-			System.out.println(candidato);
+		ObjectMapper mapper = new ObjectMapper();
+
+		try {
+			mapper.writeValue(new File(pathJson), candidatos);
+		} catch (IOException e) {
+			e.printStackTrace();
 		}
-		
-		salvarEmJSON();
 	}
 
 	public void startElement(String uri, String localName, String qName, Attributes atts) {
 		tagAtual = qName;
-		
+
 		switch (qName) {
 		case "candidato":
 			candidatoAtual = new Candidato();
@@ -100,7 +100,7 @@ public class CandidatosSAX extends DefaultHandler {
 	public void characters(char[] ch, int start, int length) throws SAXException {
 
 		String texto = new String(ch, start, length);
-		
+
 		switch (tagAtual) {
 		case "sexo":
 			candidatoAtual.setSexo(texto);
@@ -149,17 +149,6 @@ public class CandidatosSAX extends DefaultHandler {
 			break;
 		default:
 			break;
-		}	
-	}
-	
-	private void salvarEmJSON() {
-
-		ObjectMapper mapper = new ObjectMapper();
-		
-		try {
-			mapper.writeValue(new File(pathJson), candidatos);
-		} catch (IOException e) {
-			e.printStackTrace();
 		}
 	}
 

@@ -26,39 +26,25 @@ import br.ufc.persistencia.elements.RedacaoElement;
 
 public class App {
 	
-	private final static String pathToCsv = "src/main/resources/MICRODADOS_ENEM_2018.csv";
-	private final static String pathToXml = "src/main/resources/candidatos.xml";
-	private final static String pathToJson = "src/main/resources/candidatos.json";
-	private final static Integer quantidadeDados = 20;
+	private final static String PATH_TO_CSV = "src/main/resources/MICRODADOS_ENEM_2018.csv";
+	private final static String PATH_TO_XML = "src/main/resources/candidatos.xml";
+	private final static String PATH_TO_JSON = "src/main/resources/candidatos.json";
+	private final static Integer QUANTIDADE_DADOS = 20;
 
 	public static void main(String[] args) throws ParserConfigurationException, TransformerConfigurationException {
 		
 		try {
-			BufferedReader csvReader = new BufferedReader(new FileReader(pathToCsv));
-			String row;
+			
+			BufferedReader csvReader = new BufferedReader(new FileReader(PATH_TO_CSV));
 			
 			DocumentBuilderFactory factory = DocumentBuilderFactory.newInstance();
 			DocumentBuilder builder = factory.newDocumentBuilder();
 			Document doc = builder.newDocument();
 			
-			Element root = doc.createElementNS("ufc.br.persistencia", "candidatos");
+			Element root = doc.createElement("candidatos");
 		    doc.appendChild(root);
 
-			csvReader.readLine();
-
-			for (int i = 0; i < quantidadeDados; i++) {
-				row = csvReader.readLine();
-				String[] data = row.split(";");
-			
-				Node candidato = CandidatoElement.create(doc, data);
-				Node redacao = RedacaoElement.create(doc, data);
-				Node provaObjetiva = ProvaObjetivaElement.create(doc, data);
-				
-				candidato.appendChild(redacao);
-				candidato.appendChild(provaObjetiva);
-				
-			    root.appendChild(candidato);
-			}
+			readDados(csvReader, doc, root);
 			
 			TransformerFactory transformerFactory = TransformerFactory.newInstance();
 	        Transformer transf = transformerFactory.newTransformer();
@@ -68,17 +54,13 @@ public class App {
 	        transf.setOutputProperty("{http://xml.apache.org/xslt}indent-amount", "2");
 	        
 	        DOMSource source = new DOMSource(doc);
-
-	        File myFile = new File(pathToXml);
-	        
+	        File myFile = new File(PATH_TO_XML);
 	        StreamResult file = new StreamResult(myFile);
-
 	        transf.transform(source, file);
 	        
 	        csvReader.close();
 	        
-	        CandidatosSAX devmediaSAX = new CandidatosSAX();
-	        devmediaSAX.fazerParsing(pathToXml, pathToJson);
+	        convertToJson();
 	        
 		} catch (IOException e) {
 			e.printStackTrace();
@@ -87,6 +69,30 @@ public class App {
 		}
 
 	}
-	
 
+	private static void convertToJson() {
+		CandidatosSAX candidatosSAX = new CandidatosSAX();
+		candidatosSAX.fazerParsing(PATH_TO_XML, PATH_TO_JSON);
+	}
+
+	private static void readDados(BufferedReader csvReader, Document doc, Element root) throws IOException {
+		String row;
+		String[] data;
+		csvReader.readLine();
+		
+		for (int i = 0; i < QUANTIDADE_DADOS; i++) {
+			row = csvReader.readLine();
+			data = row.split(";");
+		
+			Node candidato = CandidatoElement.create(doc, data);
+			Node redacao = RedacaoElement.create(doc, data);
+			Node provaObjetiva = ProvaObjetivaElement.create(doc, data);
+			
+			candidato.appendChild(redacao);
+			candidato.appendChild(provaObjetiva);
+			
+		    root.appendChild(candidato);
+		}
+	}
+	
 }
