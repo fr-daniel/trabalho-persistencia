@@ -41,8 +41,6 @@ public class ProvaObjetivaElement {
 		PresencaProva presenca = PresencaProva.byIndex(indexPresenca);
 		String presencaDesc = presenca != null ? presenca.getDescricao() : "";
 		
-		System.out.println(indexPresenca + presencaDesc);
-
 		prova.appendChild(createElement(doc, "descricao", descProva));
 		prova.appendChild(createElement(doc, "presenca", presencaDesc));
 		prova.appendChild(createElement(doc, "nota", nota));

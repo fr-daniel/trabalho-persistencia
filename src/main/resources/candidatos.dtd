@@ -1,0 +1,22 @@
+<!ELEMENT candidatos (candidato+)>
+<!ELEMENT candidato (idade, sexo, nacionalidade, raca, estado_civil, redacao, provas)>
+<!ELEMENT idade (#PCDATA)>
+<!ELEMENT sexo (#PCDATA)>
+<!ELEMENT nacionalidade (#PCDATA)>
+<!ELEMENT raca (#PCDATA)>
+<!ELEMENT estado_civil (#PCDATA)>
+<!ELEMENT redacao (status, nota_final, notas)>
+<!ELEMENT status (#PCDATA)>
+<!ELEMENT nota_final (#PCDATA)>
+<!ELEMENT notas (competencia_1, competencia_2, competencia_3, competencia_4, competencia_5)>
+<!ELEMENT competencia_1 (#PCDATA)>
+<!ELEMENT competencia_2 (#PCDATA)>
+<!ELEMENT competencia_3 (#PCDATA)>
+<!ELEMENT competencia_4 (#PCDATA)>
+<!ELEMENT competencia_5 (#PCDATA)>
+<!ELEMENT provas (prova+)>
+<!ELEMENT prova (descricao, presenca, nota)>
+<!ELEMENT descricao (#PCDATA)>
+<!ELEMENT presenca (#PCDATA)>
+<!ELEMENT nota (#PCDATA)>
+<!ATTLIST candidato inscricao CDATA #REQUIRED>

@@ -42,7 +42,8 @@ public class App {
 			Document doc = builder.newDocument();
 			
 			Element root = doc.createElement("candidatos");
-		    doc.appendChild(root);
+			root.setAttributeNS("http://www.w3.org/2001/XMLSchema-instance", "xsi:schemaLocation", "candidatos.xsd");
+			doc.appendChild(root);
 
 			readDados(csvReader, doc, root);
 			

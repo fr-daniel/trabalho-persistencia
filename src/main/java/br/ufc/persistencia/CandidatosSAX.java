@@ -14,6 +14,7 @@ import org.xml.sax.SAXException;
 import org.xml.sax.helpers.DefaultHandler;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
+import com.fasterxml.jackson.databind.SerializationFeature;
 
 import br.ufc.persistencia.models.Candidato;
 import br.ufc.persistencia.models.NotasRedacao;
@@ -59,7 +60,8 @@ public class CandidatosSAX extends DefaultHandler {
 
 	public void endDocument() {
 		ObjectMapper mapper = new ObjectMapper();
-
+		mapper.enable(SerializationFeature.INDENT_OUTPUT);
+		
 		try {
 			mapper.writeValue(new File(pathJson), candidatos);
 		} catch (IOException e) {
