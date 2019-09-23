@@ -1,4 +1,4 @@
-package br.ufc.persistencia;
+package br.ufc.persistencia.enums;
 
 public enum Sexo {
 

@@ -1,7 +1,12 @@
-package br.ufc.persistencia;
+package br.ufc.persistencia.elements;
 
 import org.w3c.dom.Document;
 import org.w3c.dom.Element;
+
+import br.ufc.persistencia.enums.EstadoCivil;
+import br.ufc.persistencia.enums.Nacionalidade;
+import br.ufc.persistencia.enums.Raca;
+import br.ufc.persistencia.enums.Sexo;
 
 public class CandidatoElement {
 

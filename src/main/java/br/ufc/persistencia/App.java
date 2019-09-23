@@ -20,11 +20,14 @@ import org.w3c.dom.Document;
 import org.w3c.dom.Element;
 import org.w3c.dom.Node;
 
+import br.ufc.persistencia.elements.CandidatoElement;
+import br.ufc.persistencia.elements.RedacaoElement;
+
 public class App {
 	
 	private final static String pathToCsv = "src/main/resources/MICRODADOS_ENEM_2018.csv";
 	private final static String pathToXml = "src/main/resources/candidatos.xml";
-	private final static Integer quantidadeDados = 100000;
+	private final static Integer quantidadeDados = 200;
 
 	public static void main(String[] args) throws ParserConfigurationException, TransformerConfigurationException {
 		
@@ -46,6 +49,10 @@ public class App {
 				String[] data = row.split(";");
 			
 				Node candidato = CandidatoElement.create(doc, data);
+				Node redacao = RedacaoElement.create(doc, data);
+				
+				candidato.appendChild(redacao);
+				
 			    root.appendChild(candidato);
 			}
 			
